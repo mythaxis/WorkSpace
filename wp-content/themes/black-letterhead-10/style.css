@@ -229,7 +229,7 @@ body {
 	}
 	
 #header {
-        background : #000 url(images/header.jpg)  top left no-repeat;	
+        background : #000 url(../../../images/header.jpg)  top left no-repeat;	
         padding: 0;
 	margin: 0 auto;
 	height: 200px;
