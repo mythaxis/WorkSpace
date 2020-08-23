@@ -30,4 +30,4 @@ jobs:
         ftp-server: ${{ secrets.FTP_SERVER }}workspace
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./docs
+        local-dir: docs
