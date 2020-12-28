@@ -4,6 +4,7 @@
 <head>
     {{ block "head" . }}
     {{ partial "head.html" . }}
+    {{ partial "head/js.html" . }}
     {{ end }}
 
     {{ block "head_resources" . }}
@@ -41,6 +42,11 @@
     <footer class="flex-container footer">{{ partial "footer.html" . }}</footer>
     {{ end }}
     {{ end }}
+
+        <!-- particles.js container -->
+    <div id="particles-js"></div>
+    {{ $main := resources.Get "js/index.js" }}
+    <script src='{{ $main.RelPermalink }}'></script>
 </body>
 
 </html>

@@ -3,6 +3,7 @@
 
 <head>
     {{ partial "head.html" . }}
+    {{ partial "head/js.html" . }}
     <title>{{ .Title | markdownify }}</title>
 </head>
 
@@ -10,7 +11,7 @@
     <!-- particles.js container -->
     <div id="particles-js"></div>
 
-    <nav role="navigation" class="flex-container" id="splash">
+    <nav role="navigation" class="flex-container">
         <h1>Workspace</h1>
         
         {{ if .Site.Params.mainMenu }}
