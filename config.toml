@@ -49,6 +49,10 @@ publishDir               = "docs"                           # for github pages
     text = "Categories"
 
 [[params.mainMenu]]
+    link = "gallery"
+    text = "Gallery"
+
+[[params.mainMenu]]
     link = "workspace-all-chronologically"
     text = "All"
 
