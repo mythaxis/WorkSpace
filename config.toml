@@ -15,33 +15,42 @@ publishDir               = "docs"                           # for github pages
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
-    homepage             = "main"                           # What to call the home page link
-    footerText           = "Call me Sam, a theme for Hugo."
+    homepage             = "Init"
+    footerText           = "Workspace – A Story of Work"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Call me Sam"
+    description          = "Workspace – A Story of Work"
+    images               = ["tn.png"]
+    title                = "Workspace – A Story of Work"
     # rss                = ""
 
 [[params.videoBackground.sources]]
     source  = "/sample_video.mp4"
     type    = "video/mp4"
-    poster  = "/background.png"
+    poster  = "/2429862923_01ba069d5f_b.jpg"
 [params.videoBackground]
     overlay = "rgba(0, 0, 0, 0.4)" # optional
 
-[[params.mainMenu]]
-    link = "posts"
-    text = "Workspace"
 
 [[params.mainMenu]]
     link = "visitors-guide"
-    text = "A Visitors guide?"
+    text = "A Visitors Guide"
+
+[[params.mainMenu]]
+    link = "posts"
+    text = "Posts"
+
+[[params.mainMenu]]
+    link = "chapters"
+    text = "Chapters"
+
+[[params.mainMenu]]
+    link = "categories"
+    text = "Categories"
 
 [[params.mainMenu]]
     link = "workspace-all-chronologically"
-    text = "All chronologically"
+    text = "All"
 
 
 [imaging]

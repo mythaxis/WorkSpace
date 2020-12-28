@@ -1,0 +1,8 @@
+{{ $jQuery := resources.Get "js/jquery.js" }}
+<script src='{{ $jQuery.RelPermalink }}'></script>
+{{ $main := resources.Get "js/particles.min.js" }}
+<script src='{{ $main.RelPermalink }}'></script>
+{{ $js := slice $jQuery $main | resources.Concat "assets/js/bundle.js" }}
+<script src='{{ $js.RelPermalink }}'></script>
+
+
