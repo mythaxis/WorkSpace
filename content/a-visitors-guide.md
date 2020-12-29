@@ -8,7 +8,7 @@ url: /visitors-guide/
 menu: "main"
 ---
 
-[![](http://www.kilbot.co.uk/wp-content/uploads/2009/05/workspace05wht_alt-255x300.jpg)
+[![WorkSpace Operator](http://www.kilbot.co.uk/wp-content/uploads/2009/05/workspace05wht_alt-255x300.jpg)
 ](http://www.kilbot.co.uk/wp-content/uploads/2009/05/workspace05wht_alt.jpg)
 
 ****
