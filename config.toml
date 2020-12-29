@@ -16,12 +16,13 @@ publishDir               = "docs"                           # for github pages
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "Init"
-    footerText           = "Workspace < A Story of Work"
+    footerText           = "Workspace &lt; A Story of Work"
+    showDate             = true
 
 # Metadata for Open Graph and Twitter
-    description          = "Workspace < A Story of Work"
+    description          = "Workspace &lt; A Story of Work"
     images               = ["tn.png"]
-    title                = "Workspace < A Story of Work"
+    title                = "Workspace &lt; A Story of Work"
     # rss                = ""
 
 [[params.videoBackground.sources]]

@@ -7,7 +7,7 @@ on:
       logLevel:
         description: 'Whatcha doing?'     
         required: true
-        default: 'deploying mythaxis inni'
+        default: 'deploying workspace inni'
 
 jobs:
   printInputs:
