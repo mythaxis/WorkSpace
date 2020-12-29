@@ -57,6 +57,7 @@ The triage assessment, at the insistence of the patient (who remained lucid and 
 **Recommendations**: The patient Danny Declever rates in the top 0.3 percentile of personal energy wealth in BA. As such, he is effectively immune from state psychotherapy intervention; in addition, a substantial patient donation to this facility’s management pension fund is noted and as mandated this report will therefore not be shared in the normal way with social services/police entities of the city of Buenos Aires.
 
 **I** couldn’t take it anymore, I clicked out of the dunk even as the report on Danny Declever droned endlessly on in beautiful resolution; the reach, investigative abilities and worst of all, the narrative integration capabilities of an autopsy enabled AI are mercilessly all-seeing.
+
 I was woken last night by Babs at 0400, with a priority ping override, there was an Operator down and a bereft Job broadcasting over the entire Cadre band. Even before Babs shunted me into the initial autopsy report I had my suspicions, and to watch the perfectly rendered corpse of Danny Declever rotating lazily in the notional space of the management tankspace merely confirmed my fears. Danny was gone, he was all gone.
 
 ** **

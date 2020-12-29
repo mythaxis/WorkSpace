@@ -38,7 +38,9 @@ And the greatest injustice? None of the normal palliatives to their banality are
 	* Rage: Not conducive to hierarchical advancement (could cut both ways this one though...)
 	* Screen: Too much of a time sink.
 	* Sarcasm: Woefully misunderstood/under-appreciated.
-	* Wanking: The greatest threat of all outside of the 9-5 work slot. 20:00 creeps round, the virch cursor blinks desultorily in the corner of my shallow dunk, enthusiasm sinks to previously unrealised nadirs, a hot beverage - pah! Smoking is for hardy types, brrr. With a pathetic hind brain predictability thoughts slouch south - but for fuck's sake, "I CAN'T GO THERE" - that way lies misery, self loathing, the desperate need for a shower and the niggling sense of a line crossed forever...
+	* Wanking: The greatest threat of all outside of the 9-5 work slot.
+
+20:00 creeps round, the virch cursor blinks desultorily in the corner of my shallow dunk, enthusiasm sinks to previously unrealised nadirs, a hot beverage - pah! Smoking is for hardy types, brrr. With a pathetic hind brain predictability thoughts slouch south - but for fuck's sake, "I CAN'T GO THERE" - that way lies misery, self loathing, the desperate need for a shower and the niggling sense of a line crossed forever...
 
 Night, Babs, you lucky fucker.
 
