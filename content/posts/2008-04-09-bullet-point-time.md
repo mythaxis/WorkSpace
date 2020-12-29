@@ -16,7 +16,7 @@ WTF – the Tank construct stutters, then freezes completely. Un-fucking-heard o
 
 I toggle Job on the suit channel, at last – a response. 
 
-**“What is your status, [operator](http://www.kilbot.co.uk/wp-content/uploads/2009/07/workspace02.jpg)?”**
+**“What is your status, [operator](/wp-content/uploads/2009/07/workspace02.jpg)?”**
 
 “I’m stuck Babs!” I forget nomenclature protocol in my panic. 
 
