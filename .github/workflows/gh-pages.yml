@@ -13,6 +13,12 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v2
 
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - run: npm ci -g postcss postcss-cli autoprefixer@9.8.6
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
