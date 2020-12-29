@@ -1,8 +1,14 @@
 ---
-title: 'An Embarrassing Death'
-date: Fri, 15 Feb 2008 23:26:00 +0000
+author: kilbot
+date: 2008-02-15 23:26:00+00:00
 draft: true
-tags: ['Irritated', 'WorkSpace']
+title: 'An Embarrassing Death'
+type: post
+url: /2008/02/15/an-embarrassing-death/
+categories:
+- WorkSpace
+tags:
+- Irritated
 ---
 
 **The Gilded Lily (INT MID-EVENING)**

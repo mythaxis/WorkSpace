@@ -4,10 +4,10 @@ date: 1970-01-01 00:00:00+00:00
 draft: false
 title: "<anotatepost. closed broadcast|personal FB log. NO DATESTAMP>"
 type: post
-series:
-  - Warped
+categories:
+- Warped
 tags:
-  - general broadcast
+- general broadcast
 ---
 
 Social historians looking back at the middle of 21C will perhaps puzzle at the predominance of starkly non-expressive faces in images or video captured in public places. As surveillance saturation increased from the early 2010s onwards, fuelled by ever granular taxing methods and notional terrorism threats, the general populace evolved means of reducing their biometric footprint. Gait modification trusses were at first home-brewed and then Chinese mass produced. After hoodies were outlawed grass roots lecture sessions on how to fool facial recognition software grew in popularity, and sign language jumped the gap from prosthesis to de facto language. Stegging became a part of life; we all now ostensibly fulfil the criteria of optimal citizenry but our visible surfaces are merely a veneer of adherence to an increasingly arbitrary and hard to follow set of state-mandated behavioural norms.

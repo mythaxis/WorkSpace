@@ -1,8 +1,14 @@
 ---
-title: 'Multi-channel infoexistence (or: how I pwned Brad from Cleveland)'
-date: Mon, 03 Mar 2008 20:04:31 +0000
+author: kilbot
+date: 2008-03-03 20:04:31+00:00
 draft: true
-tags: ['Irritated', 'WorkSpace']
+title: 'Multi-channel infoexistence (or: how I pwned Brad from Cleveland)'
+type: post
+url: /2008/03/03/multi-channel-infoexistence/
+categories:
+- WorkSpace
+tags:
+- Irritated
 ---
 
 Last night I spent an agreeable couple of hours or so playing Call of Duty 4 (Xbox Live) with several mates (1 x UK, 2 x USA); together we comprised a party of four, playing in several public Domination games - naturally we were awesome.

@@ -1,8 +1,12 @@
 ---
-title: 'Surfing Mediocrity'
-date: Fri, 15 Feb 2008 23:09:07 +0000
+author: kilbot
+date: 2008-02-15 23:09:07+00:00
 draft: true
-tags: ['WorkSpace']
+title: 'Surfing Mediocrity'
+type: post
+url: /2008/02/15/warped/
+categories:
+- WorkSpace
 ---
 
 It’s late, you’re bored, there’s nothing on telly: Not true, you’re just not trying hard enough…

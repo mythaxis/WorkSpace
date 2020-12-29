@@ -4,10 +4,10 @@ date: 2047-12-12 12:13:00+00:00
 draft: false
 title: "<anonpost. general broadcast|backchannel.DATESTAMP: 12:13.12.12.47>"
 type: post
-series:
-  - Warped
+categories:
+- Warped
 tags:
-  - general broadcast
+- general broadcast
 ---
 
 Gabriel’s new rig was very different from the jointed, articulated octopi that most Cutter cells use. A columnar structure about 2.5 meters high with a central space just big enough for a person, close up it looked a little like a highly magnified section of squid tentacle, with countless very sharp hooks aligned in an endless spiroform. Later I find out that he took inspiration from ancient loopwheeler tech, a 20C weaving machine that outputted a seamless torso garment. Instead of circularly weaving a continuous fabric Gabriel’s machine does the opposite, each nanonically sharp hook of the Cutter unweaves a section of Skin, close to the cellular level. Homebuilt tech is never perfect though and this is why I am busying popping pills and slapping patches as I shucked my outer tunic. The Skin does not transmit derma drug patches though so I am forced to apply the morphine analogue pernineally, not a good look between mates…

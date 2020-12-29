@@ -1,8 +1,12 @@
 ---
-title: 'Morpheus wired'
-date: Wed, 30 Nov -0001 00:00:00 +0000
+author: kilbot
+date: -0001-11-30 00:00:00+00:00
 draft: true
-tags: ['WorkSpace']
+title: 'Morpheus wired'
+type: post
+url: /-0001/11/30/morpheus-wired/
+categories:
+- WorkSpace
 ---
 
 Today I'm going to discuss briefly the

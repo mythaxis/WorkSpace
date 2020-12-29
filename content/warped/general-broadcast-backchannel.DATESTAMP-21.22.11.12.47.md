@@ -4,10 +4,10 @@ date: 2047-12-11 21:22:00+00:00
 draft: false
 title: "<anonpost. general broadcast|backchannel.DATESTAMP: 21:22.11.12.47>"
 type: post
-series:
-  - Warped
+categories:
+- Warped
 tags:
-  - general broadcast
+- general broadcast
 ---
 
 As normal the tube was late, the TerrorHurtz mid-tunnel scanners were always going on the fritz and the alert was pegged at Severe, this meant that the tube door secondary gait scanners were being extra-anal. As I entered the carriage I got a non-friendly spine tingle B-Aware ping; like all I’m going to do if I see a unattended package is huddle as close to it as possible – I cleave to the red-mist-is-better-than-triple-amputee mindset. I sub-vocalised a fuck-you at the monitoring child-AI but nothing got as far as my lips – I may be a dissenter but I’m not a moron.

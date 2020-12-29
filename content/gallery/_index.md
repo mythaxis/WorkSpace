@@ -6,7 +6,7 @@ title: WorkSpace Gallery
 type: page
 ---
 
-Gallery goes here
 
+[![Brant](http://www.kilbot.co.uk/wp-content/uploads/2009/07/brant_0313.jpg "Brant")](http://www.kilbot.co.uk/wp-content/uploads/2009/07/brant_0313.jpg)
 
-[![](http://www.kilbot.co.uk/wp-content/uploads/2009/07/brant_0313.jpg "Brant")](http://www.kilbot.co.uk/wp-content/uploads/2009/07/brant_0313.jpg) [![](http://www.kilbot.co.uk/wp-content/uploads/2009/07/workspace02.jpg "WorkSpace Operator")](http://www.kilbot.co.uk/wp-content/uploads/2009/07/workspace02.jpg)
+[![WorkSpace Operator](http://www.kilbot.co.uk/wp-content/uploads/2009/07/workspace02.jpg "WorkSpace Operator")](http://www.kilbot.co.uk/wp-content/uploads/2009/07/workspace02.jpg)
