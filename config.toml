@@ -53,10 +53,6 @@ publishDir               = "docs"                           # for github pages
     link = "gallery"
     text = "Gallery"
 
-[[params.mainMenu]]
-    link = "workspace-all-chronologically"
-    text = "All"
-
 
 [imaging]
     quality = 75

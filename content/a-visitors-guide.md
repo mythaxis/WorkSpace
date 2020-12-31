@@ -13,7 +13,7 @@ menu: "main"
 
 ****
 ****
-** **
+****
 ****
 
 Whether you are reading this at my industrial tribunal, as a data archaeologist student, or as drone level sysadmin clearing space off a grandfathered WorkSpace database, I hope it brings you some small distraction from the otherwise humdrum irritations of your work day.
@@ -28,7 +28,7 @@ Previously ensconced in a bulky, non-motile, [immersion Job](/2008/03/09/job/), 
 
 These records may ostensibly present as a diary, but a writer's vanity suggests that future readers may like some introduction into the dense and unnecessarily complex argot of the WorkSpace world.
 
-**A Glossary**
+## A Glossary
 
 **WorkSpace**: A [sprawling, multinational conglomerate](/2008/10/21/what-its-like-not-to-believe/) of Brobdingnagian proportions. Activities range from: energy production and distribution, to orbital factory platforms, to industrial waste disposal, to childcare. 
 
@@ -40,8 +40,8 @@ These records may ostensibly present as a diary, but a writer's vanity suggests 
 
 **TankSpace**: The shared, [virtual immersion environments](/2008/04/09/bullet-point-time/) used extensively throughout WorkSpace. These spaces are accessed via a number of sensory and EEG interface technologies; direct cerebral input has not yet been achieved.
 
-[caption id="attachment_367" align="alignnone" width="209" caption="Brant"][![Brant](/wp-content/uploads/2009/07/brant_031-209x300.jpg)
-](/wp-content/uploads/2009/07/brant_031.jpg)[/caption]
+[![Brant](/wp-content/uploads/2009/07/brant_031-209x300.jpg)
+](/wp-content/uploads/2009/07/brant_031.jpg)
 
 **Dunking/Dunktime**: Anecdotal/slang term for the act of sensory immersion in a virtual environment.
 
