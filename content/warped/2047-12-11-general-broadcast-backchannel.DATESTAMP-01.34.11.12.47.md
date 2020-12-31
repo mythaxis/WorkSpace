@@ -1,5 +1,5 @@
 ---
-author: kilbot
+author: anon
 date: 2047-12-11 01:34:00+00:00
 draft: false
 title: "<anonpost. general broadcast|backchannel.DATESTAMP: 01:34.11.12.47>"
