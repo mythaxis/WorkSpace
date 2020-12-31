@@ -11,13 +11,13 @@ categories:
 ---
 It could have gone either way. A haven-distributed, largely tax-free windfall of over two hundred and fifty million Euros can have a delirious effect on anyone. To a centless decon worker from the crushing fields of Chittagong it was initially mostly beyond comprehension. A slightly more culture saturated target of benefaction would have gone through the standard stages of lottery burn rate. By the 30s LBR was an established, observable, behaviour meme – infinitesimally marginal lottery variants had been evolved and honed to maximise their pacification effect. Simultaneously micro-taxing and distracting, the reality show, the phone-in, the lotto, the raffled home, had all cohered into a mass participatory amalgam of hysterical, shrieking bullshit that underpinned a billion euro cable market, and a thousand cock sucking remora peripheral outfits eager to cash into one of the few growth markets left. Latterly legitimatised via a number of degree and post-graduate level courses in the subject, Lottery Studies had carefully identified the typical responses stages from the (typically) low income recipient of a lottery win.
 
-Elation: Characterised by intoxicant consumption and list making. 
+Elation: Characterised by intoxicant consumption and list making.
 
-Anxiety denial: OCD levels of concern about security of winner designator (ticket/estub/SMS etc). 
+Anxiety denial: OCD levels of concern about security of winner designator (ticket/estub/SMS etc).
 
-Discretion flip-flop: Elation stage wild promises regretted in a fug of hangover. 
+Discretion flip-flop: Elation stage wild promises regretted in a fug of hangover.
 
-Belief curve: Dawning realisation that the recipient can now purchase any amount of shiny crap they want. 
+Belief curve: Dawning realisation that the recipient can now purchase any amount of shiny crap they want.
 
 Consumer phase: Profligate period of conspicuous consumption, characterised by scant regard for tastes, appropriateness or dimensional suitability for the pre-win living space. 
 
@@ -29,11 +29,11 @@ Janahara is not complacent, hard wired by poverty to assume nothing and expect l
 
 A dawn boat jam in Amligola, all the air horns inexplicably synchronising at once into a bellowing assonance: Jaaaaaannaaaaaaa.
 
-A cute lead out human interest item on the local news showing a series of cloud formations shot by a butcher from the Gulshan market – each one a near perfect rendering of the Bengali glyph of the letter J. 
+A cute lead out human interest item on the local news showing a series of cloud formations shot by a butcher from the Gulshan market – each one a near perfect rendering of the Bengali glyph of the letter J.
 
 A call from his bank manager asking him (with barely contained glee) if he was going to be keeping the recent despot of ninety million takas in his current account; and them the subsequent call from the same manager apologising for an unaccountable database error – there was no such deposit.
 
-Eventually, it took the hijacking of an infomercial idoru to smash the message home to Janahara. Unable to sleep in the crushing humidity, he was blearily watching an endless demonstration of a pointlessly over-engineered kitchen mandolin on one of the shopping channels when the screen momentarily glitched. The beautifully rendered (ostensibly female) demonstrator dropped its plasticky gee-gaw and looked straight to camera: 
+Eventually, it took the hijacking of an infomercial idoru to smash the message home to Janahara. Unable to sleep in the crushing humidity, he was blearily watching an endless demonstration of a pointlessly over-engineered kitchen mandolin on one of the shopping channels when the screen momentarily glitched. The beautifully rendered (ostensibly female) demonstrator dropped its plasticky gee-gaw and looked straight to camera:
 
 **“Janahara, read your fucking email.”** ****
  

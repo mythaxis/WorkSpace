@@ -44,16 +44,16 @@ Anyway, read on, tenure is assured old friend.
 
 Best regards,
 
-D. 
+D.
 
 **——–**
 
 **Transcript of audio file discovered on a 256 GB nanoSD card, believed constructed in May 2027, part of a production batch (#03/05-DFQ) from a Samsung subcontracting factory in Lungsod ng Maynila (previously: Manila)**.**
 
-	  * **Date of recording (estimated): 25-07-2028**
-	  * **File duration: 94.3 seconds.**
-	  * **Voice type: Construct.**
-	  * **Language: Bangla.**
+	 * **Date of recording (estimated): 25-07-2028**
+	 * **File duration: 94.3 seconds.**
+	 * **Voice type: Construct.**
+	 * **Language: Bangla.**
 
 <>
 Hello Janahara Azad.
