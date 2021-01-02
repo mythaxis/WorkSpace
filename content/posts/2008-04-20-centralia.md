@@ -10,7 +10,7 @@ categories:
 - WorkSpace
 ---
 
-Re: ASE Providence tower report (Blackheath) “Surveillance Tower 4, East”\
+Re: ASE Providence tower report (Blackheath) "Surveillance Tower 4, East"\
 From: [ase_prov4E@ministryofjustice.org](mailto:ase_prov4E@ministryofjustice.org)\
 Date: 2028-07-05, 16:39:27\
 To: WorkSpace Operator Monitoring (UK) [Alejandro_fernandez@workspace.world](mailto:Alejandro_fernandez@workspace.world)
@@ -34,14 +34,14 @@ _N_ volunteered to assist with setting up the first team building fun task. Las
 
 **10:01**\
 During the refreshment break _N_ avoided the sugar-rich brunch confections and authorised caffeine beverages. This agent noted that _N_ consumed/imbibed homemade nourishment; audio pickups inferred from self-directed comments by _N_ that it was partially soy based. This agent is unable to extrapolate the relevance of the following comment by _N_:
-_“You try fucking eating this swill, Babs – please let me have a donut”_
+_"You try fucking eating this swill, Babs – please let me have a donut"_
 
 **11:13**\
 _N_ was involved in the resolution of a group infraction. During the third team building exercise of the a.m. period (cross-cultural Sino-Anglo business protocols: Correct repast techniques) an altercation between Operator 1278 and Operator 9812 broke out. This agent is not equipped with baseline human peer-bonding analysis routines and is therefore not able to comment on the following recorded audio:
-_“You pink feather slag; I saw the conjugal tank log”_
+_"You pink feather slag; I saw the conjugal tank log"_
 
 And:\
-_“Well, anyone that can’t last longer than 2 minutes even in virch deserves all they get”_
+_"Well, anyone that can’t last longer than 2 minutes even in virch deserves all they get"_
 _N_ was recorded admonishing these 2 operators, requesting that the discord participants discontinue their team harmony destruction. This agent witnessed an unprecedented level of authority cooperation by _N_, deferring appropriately to Xiu Chen Wong after he had defused the altercation (Advisory: Refer Xiu Chen Wong for additional leadership and fealty enablement training).
 
 _________

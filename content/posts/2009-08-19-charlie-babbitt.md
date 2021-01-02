@@ -12,35 +12,35 @@ categories:
 
 WorkSpace has the best PR. This should be no surprise as they also have the best of everything else; cherry picking was second nature to the myriad minds that ran the corporation. PR had to be good, they had the unenviable task of shoehorning an essentially incompatible prickly cactus cock of corporate reality into a sheath of barrier protection – there was no way that the public would allow the stark reality of WorkSpace realities into their lives without the blinkering cosmesis of spin to lube the way.
 
-Under the suave and gentling hand of the WorkSpace PR division an alchemy happened. Wars became police actions (or on a good day – _defensively augmented resource management directives_), unsanctioned inner city drug trials became _reward mandated needle exchanges initiatives_, illegal deforestation became _proactive carbon trading_. They were always busy, the Gaunt based PR department numbered over two hundred full-time staff members and nearly five hundred remote partials running microshifts from all over the UK. Eschewing dunk stations – in an age of online and virtual engagements, the personal touch was still one of the most important tools in their arsenal – WorkSpace PR worked to temporarily salve an endless litany of governmentally sanctioned crimes and corporate ethical misdemeanours. In the hands of an experienced WorkSpace PR professional an oil spill and three hundred weasel words of geographically and culturally divorced hand-wringing took on a glow of implied humility and contrition (backed up of course by a war chest larger than the GDP of Turkey). For those that cared to think about it, it was another bitter disappointment that money – appropriately distributed – continued to be a universal get of jail free card for the very worst of the world’s offenders. Revisionist, the money removed or re-wrote the guilty act/image/treaty from the public and private gaze, veiling history with the bland blurb of public relations censorship.
+Under the suave and gentling hand of the WorkSpace PR division an alchemy happened. Wars became police actions (or on a good day – _defensively augmented resource management directives_), unsanctioned inner city drug trials became _reward mandated needle exchanges initiatives_, illegal deforestation became _proactive carbon trading_. They were always busy, the Gaunt based PR department numbered over two hundred full-time staff members and nearly five hundred remote partials running microshifts from all over the UK. Eschewing dunk stations – in an age of online and virtual engagements, the personal touch was still one of the most important tools in their arsenal – WorkSpace PR worked to temporarily salve an endless litany of governmentally sanctioned crimes and corporate ethical misdemeanours. In the hands of an experienced WorkSpace PR professional an oil spill and three hundred weasel words of geographically and culturally divorced hand-wringing took on a glow of implied humility and contrition (backed up of course by a war chest larger than the GDP of Turkey). For those that cared to think about it, it was another bitter disappointment that money – appropriately distributed – continued to be a universal get out of jail free card for the very worst of the world’s offenders. Revisionist, the money removed or re-wrote the guilty act/image/treaty from the public and private gaze, veiling history with the bland blurb of public relations censorship.
 
 With the advent of AI deployment, firstly within the careful constraints of WorkSpace, and then later within external companies wanting to leverage their own pocket gods, the PR faltered. Mostly it was a problem of expectation; scarescrowed by a spinal rod of hilariously inaccurate public perceptions and expectations of artificial intelligence, the PR goons quailed in the face of the truly alien. It was not the intrinsic intangibility of the subject – PR had spent years making the virtual ephemera of digital production concrete, knowable and digestible – it was the slippery, unearthly knowledge that behind the slick UIs of an AI/human interface there was something looking out. Like lidless, giant eyes bumping up against the glass of a vast vivarium, the AIs (or newev as they later became known) shiveringly heralded in, at last, the future.
 
 Early attempts at creating workable liaison environments for the non-technical resulted in class action suits from at least three different departments of WorkSpace PR, it seemed that they couldn’t handle even a few minutes of dunk time with the monolithic newev intellects without going batshit. Medical reports from the lavish mental health units where the shattered PR middle managers were drip fed out of their post-encounter stupors only provided hints as to the subjective terrors these soft creatures endured. Transcripts of early therapy sessions went something like this:
 
-o **Attending medical professional (MP): “Perhaps if we pick up from last time: we were talking about the soft crushing walls..?”.**
+**Attending medical professional (MP)**: "Perhaps if we pick up from last time: we were talking about the soft crushing walls..?".
 
-· **PR manager (anonytag: Simon): _Soft grunts, unintelligible._**
+**PR manager (anonytag: Simon)**: _Soft grunts, unintelligible._
 
-o **MP****: “Come on now, Simon, I thought we had worked through the whispering.”**
+**MP**: "Come on now, Simon, I thought we had worked through the whispering."
 
-· **Simon: ****“Fuck you”****.**
+**Simon**: _"Fuck you"_.
 
-o **MP: Ok then, let’s talk about what you called the…(soft beep as the MP consults his notes)…endless towers”.**
+**MP**: Ok then, let’s talk about what you called the…(_soft beep as the MP consults his notes_)…endless towers."
 
-· **Simon: “Where’s the fucking sushi I ordered?”**
+**Simon**: _"Where’s the fucking sushi I ordered?"_
 
-o **MP: “Lunch will be after this session, Simon, let’s try and work through”**
+**MP**: "Lunch will be after this session, Simon, let’s try and work through."
 
 Audio transcript indicates a loud bang. Session terminated on medical emergency grounds. Subsequent A&E records indicate that the attending MP was admitted with multiple contusions and a shattered ethmoid bone.
 
 These poorly equipped PR managers just did not have the language to successfully communicate with AI; there was an essential irony that these masters of interpretation and interpolation, these doyens of saccharine deception were unable to deal with the most important job of their lives – the linguistic midwifery of the newborn newevs. The most illuminating, the rawest reports of the experience of interfacing with these babyish titans could be found in the recovery journals of the mind reamed PR team members.
 
-_“…the loading ‘bule was weird anyway, stupid show-off programmers, not everyone grew up on a diet of third-hand Lovecraft…didn’t like it at all, lots of suggestive lumpen exoskeleton and Giger dentata…_
+_"…the loading ‘bule was weird anyway, stupid show-off programmers, not everyone grew up on a diet of third-hand Lovecraft…didn’t like it at all, lots of suggestive lumpen exoskeleton and Giger dentata…_
 
 _…I was running late, as usual, monthly review on the 99th at 14:00 and my flaky metrics from the past week meant I’d probably get the full medical (I was sore for a week after the last time) and I was quietly (trying to avoid triggering the goad friend) shitting myself…_
 
-_…The dunk tech had told me to follow the insertion path, typically over-explaining and patronising like they normally do, but once I was in it looked just like a standard website first person POV immersion (décor aside)…I followed the only route off the ‘bule into a circular corridor, it had a migrainous vanishing point effect going on which had “grumpy, dissident coder” written all over it…_
+_…The dunk tech had told me to follow the insertion path, typically over-explaining and patronising like they normally do, but once I was in it looked just like a standard website first person POV immersion (décor aside)…I followed the only route off the ‘bule into a circular corridor, it had a migrainous vanishing point effect going on which had "grumpy, dissident coder" written all over it…_
 
 _…after a tiring (and frankly pointlessly long) corridor traverse the virch opened up into a fatuously large chamber, it was so big that they had bothered to script a microclimate, a gentle drizzle hazed the view but apart from a fogging cheat in the middle distance and beyond, I couldn’t see anything…_
 

@@ -12,7 +12,7 @@ categories:
 
 Fast Track: Day 3.
 
-_“Our envy of others devours us most of all.”_
+_"Our envy of others devours us most of all."_
 
 This cheery Power Point statement greets us at 08:01; only WorkSpace could subvert a gloomy Solzhenityism into a management training slide show. After two days of this crushing shit I can only assume that this pithy call to arms is going to form the policy core of yet another exercise in share holder value enhancement credo. The official title of the day’s module is (deep breath):
 
@@ -28,7 +28,7 @@ _What the fuck!_
 
 A sharp chemical kick from Babs (plus a little micro voltage to the spine), and I shuck off my depression like old trainers. A sub vocalized admonishment follows from Babs:
 
-_“Please focus operator, maudlin musings are not constructive”_
+_"Please focus operator, maudlin musings are not constructive"_
 
 Prick.
 

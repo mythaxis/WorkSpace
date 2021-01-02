@@ -16,13 +16,13 @@ WTF – the Tank construct stutters, then freezes completely. Un-fucking-heard o
 
 I toggle Job on the suit channel, at last – a response.
 
-**“What is your status, [operator](/wp-content/uploads/2009/07/workspace02.jpg)?”**
+**"What is your status, [operator](/wp-content/uploads/2009/07/workspace02.jpg)?"**
 
-“I’m stuck Babs!” I forget nomenclature protocol in my panic.
+"I’m stuck Babs!" I forget nomenclature protocol in my panic.
 
-**“Stand-by, operator”.**
+**"Stand-by, operator".**
 
-The tank view vanishes and suddenly – the system’s in a hurry. “Job?” No answer. Bright white light – a staging Tank; I’ve not been in one of these since orientation. A text-only horiscroll flows silently across my HUD.
+The tank view vanishes and suddenly – the system’s in a hurry. "Job?" No answer. Bright white light – a staging Tank; I’ve not been in one of these since orientation. A text-only horiscroll flows silently across my HUD.
 
 **…view selection, operator. Please await transition to WorkSpace Prime. Mandatory review selection, operator. Please await transition to WorkSpace Prime. Mandatory review selection, operator. Please await transition to WorkSpace Prime. Mandatory review selection, operator. Please await transit…**
 
@@ -34,7 +34,7 @@ There’s someone to meet me. The sweetest avatar I’ve ever seen.
 
 Purely androgynous, exquisitely rendered (I suspect a dedicated line), and an almond shaped face, no doubt capable of every post-human expression variable but currently fixed in an impassive mask, _(Management Mid-Severity Expression #4R03N. *Denotes potential subject guilt, not yet legally provable)_.
 
-**“Tag this please, operator”.** It pings me a standard lead-and-restraint script – SOP leashing for non-management in Prime, charming.
+**"Tag this please, operator".** It pings me a standard lead-and-restraint script – SOP leashing for non-management in Prime, charming.
 
 The management avie levitates a precise 10 centimeters and I reciprocate automatically. Reception fades out to the beautifully animated interior of Prime Tier 2.
 

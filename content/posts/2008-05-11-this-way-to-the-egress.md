@@ -34,6 +34,6 @@ The resignation email, in all but one known case, triggers the DeskClear routine
 
 Four, repulsive, wet, pungent minutes pass.
 
-The desk and chair, the only two pieces of semi-permanent furniture in the cubicle, disappear into recesses in the wall and floor. A gentle shower of medicated foam starts to spray from four nozzles in the cubicle ceiling. Agate unglues herself from the floor. A closet door slides open behind her, it contains a grey unisex smock, emblazoned with “Leaver” in standard WorkSpace livery.
+The desk and chair, the only two pieces of semi-permanent furniture in the cubicle, disappear into recesses in the wall and floor. A gentle shower of medicated foam starts to spray from four nozzles in the cubicle ceiling. Agate unglues herself from the floor. A closet door slides open behind her, it contains a grey unisex smock, emblazoned with "Leaver" in standard WorkSpace livery.
 
 Agate shucks on the simple garment, the cubicle door slides open and she stumblingly follows the flashing exit chevrons down the walk of shame, a narrow corridor set in between the cubicles; CCTV nodes rotate to follow and record her progress. After forty metres of wobbly legged misery, a simple door slides vertically upwards and Agate is spat out into the grey winter daylight of a London morning. Freedom.

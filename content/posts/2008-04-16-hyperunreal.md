@@ -20,7 +20,7 @@ Involuntarily I follow my minder across the lobby floor, we ascend in a gentle a
 
 I look around as we pass down a very RL-typical central office corridor, fabric cubicle dividers fanning off to each side. The degree and quality of the virch reproduction is staggering: coffee cup rings on desks, burbling water coolers, splayed staplers awaiting refill, furrowed brows peering at monitors(!?), a fucking photocopier – what is this place?
 
-I ping the avie with a general broadcast interrogative (a WTF basically), it ignores me; just a repeat of the same text horiscroll rolls across my HUD "**...Mandatory review...**” I try to ignore it.
+I ping the avie with a general broadcast interrogative (a WTF basically), it ignores me; just a repeat of the same text horiscroll rolls across my HUD "**...Mandatory review...**" I try to ignore it.
 
 The _walking_ continues and it starts to dawn on me, and I’m fucking outraged: these goons have been given the keys to the kingdom, they’ve clawed their Darwinistic way up the slippery shit stick of corporate achievement and this is what they spend their limitless data allowance and bandwidth allocation on: a repro of a shoddy second millenium office. Eschewing the sublime advances of near-perfect 3D virch representation, the paradoxically beautiful sight of corporate databases hewn in pure light, this is what they work in – an exquisitely rendered sty.
 

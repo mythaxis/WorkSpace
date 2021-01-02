@@ -19,7 +19,7 @@ We dream – we consume AV entertainment – we dream again. As CGI informs the 
 
 The space between perceived realities and real realities is compressing – what is more filmic (or gamic) than skyscrapers tumbling like matchwood, or killer tsunamis ravaging 2 continents
 
-So, if reality takes on the hue of a purchased dream, how then are our dreams constructed using the tools of the software developer, the CAD modeller and the Hollywood budget. And if then we see convergence between the game and the film and the book and the experience of all three – where will we end up? Convergence theory and interaction space – The morality of play (and playing with morality) – The exclusion of the social in the “play”ground
+So, if reality takes on the hue of a purchased dream, how then are our dreams constructed using the tools of the software developer, the CAD modeller and the Hollywood budget. And if then we see convergence between the game and the film and the book and the experience of all three – where will we end up? Convergence theory and interaction space – The morality of play (and playing with morality) – The exclusion of the social in the "play"ground
 
 Physical self-maintenance in an online world.
 
