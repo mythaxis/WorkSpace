@@ -11,11 +11,6 @@ menu: "main"
 [![WorkSpace Operator](/wp-content/uploads/2009/05/workspace05wht_alt-255x300.jpg)
 ](/wp-content/uploads/2009/05/workspace05wht_alt.jpg)
 
-****
-****
-****
-****
-
 Whether you are reading this at my industrial tribunal, as a data archaeologist student, or as drone level sysadmin clearing space off a grandfathered WorkSpace database, I hope it brings you some small distraction from the otherwise humdrum irritations of your work day.
 
 This is deep backchannel, as far as I can tell no one has broken my crypto yet – my analytics show zero – so the photons striking whatever passes for eyes where you’re at are conveying bona fide, grass roots, uncensored serf level worker angst. 
