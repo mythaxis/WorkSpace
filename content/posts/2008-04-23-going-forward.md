@@ -18,9 +18,9 @@ It doesn’t stop there, any nascent group dynamic is shattered by the immediate
 
 My journey is a little different to the others, instead of heading for the vast bank of lifts that line the lobby area we trudge a quarter kilometre towards a row of 4 small doorways set into an east wall foyer. My minder (he introduced himself as Stuart), hovers solicitously a precise 50 centimetres from my right elbow and offers some little bon mots about WorkSpace (Stuart is pretty low level, so will have no idea of my piggyback mission).
 
-_“The WorkSpace lobby is the largest in Europe, so high in fact that it supports its own microclimate. This is fully controllable of course; a daily precipitation provides 14% of all the water needs of the entire building.”_
+_“The WorkSpace lobby is the largest in Europe, so high in fact that it supports its own microclimate. This is fully controllable of course; a daily precipitation provides 14% of all the water needs of the entire building._
 
-_In addition, here at WorkSpace we have pioneered Total Employment – an inclusionary, fostering employee leveraging technique that ensures the highest per-capita corporation productivity record on the planet, and yet enables the aspirations of all its participants.”_
+_“In addition, here at WorkSpace we have pioneered Total Employment – an inclusionary, fostering employee leveraging technique that ensures the highest per-capita corporation productivity record on the planet, and yet enables the aspirations of all its participants.”_
 
 At this point Stuart titters worryingly, and pats me on the lower back, pressing my sweat sodden shirt onto my skin; his perfect smile falters a little and then reasserts, effortlessly picking up his evangelical monologue.
 

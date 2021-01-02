@@ -18,45 +18,24 @@ You may assume correctly that the management training process has left a sour ta
 
 Since Fast Track began I’ve compiled over thirty pages of poorly scrawled, intermittently coherent musings about my experiences deep in the Gaunt; using thicker than average toilet paper extruded from the general purpose RepRap in my room (I told it I had a particularly bad case of the shits), and a feedstock carbon rod, I have been scribbling away busily. At about 20:00 most days, during the shift change, the lobby is uncharacteristically quiet, and with mega square-meterage, there is plenty of space to hunker down under one of the absurdly large, geneered Roystonea palms and jot down some appropriate musings on the day’s work. If anyone asked me, I said I was doing some sketches for a course scheduled for later that week; for the more persistent inquisitor I occasionally had to firewall their arses (our boosted ackles perfect for giving a lobby dwelling jobsworth the heave-ho). Some excerpts, viewed weeks later, give me some useful (cryptic) insights into the process – how ever much denied – that I went through:
 
-**_There seems to be an overarching plan, a consensus, a guiding force – but where the fuck is it?_**
+_There seems to be an overarching plan, a consensus, a guiding force – but where the fuck is it?_
 
-** **
+_Initiative, whilst applauded locally, is apparently deplored globally.\
+No-one likes each other!_
 
-**_Initiative, whilst applauded locally, is apparently deplored globally._**
-**_No-one likes each other!_**
+_Conservation does not apply to everyone._
 
-**_ _**
+_Some Jobs are smarter than other Jobs._
 
-**_Conservation does not apply to everyone._**
+_AI is alien, upper management are terrifying._
 
-**_ _**
+_It’s fucking genius – it polices itself._
 
-**_Some Jobs are smarter than other Jobs._**
+_I miss my mum._
 
-**_ _**
+_Like Pi, loss is a constant with endless decimal representation. Gain, on the other hand, is a fiercely fought for scarcity, incrementing only at the behest of WorkSpace._
 
-**_AI is alien, upper management are terrifying._**
-
-**_ _**
-
-**_It’s fucking genius – it polices itself._**
-
-**_ _**
-
-**_I miss my mum._**
-
-**_ _**
-
-**_Like Pi, loss is a constant with endless decimal representation. Gain, on the other hand, is a fiercely fought for scarcity, incrementing only at the behest of WorkSpace._**
-
-**_ _**
-
-**_What’s on the 100th floor?_**
-
-_ _
-
-_ _
-
+_What’s on the 100th floor?_
 
 Ah, whatever, this stuff is too risky to have on me when we leave tomorrow (and my arse will take no more) – egress is as denuding as ingress. We are to be spat back out into the milling legions of WorkSpace, to control, manage and maximise shareholder value anew. My Operator cohort is waiting for me, not with any happy anticipation, but with the faint sick anticipation of a newly conscripted and fervent manager wreaking havoc in the pursuit of advancement. Little do they know that not only this is true (appearances have to be maintained), but they will also be under the merciless combined electron scanning gimlet of our neo-sherlockian gaze.
 

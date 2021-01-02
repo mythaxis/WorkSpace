@@ -10,23 +10,11 @@ categories:
 - WorkSpace
 ---
 
-****
-
-**From: [dohna.kanti@thdl.org.np](mailto:dohna.kanti@thdl.org.np)**
-
-****
-
-**To: [hadast@haifa.ac.lb](mailto:hadast@haifa.ac.lb)**
-****Cc:****
-
-********
-
-**Subject: Here’s the opportunity, let’s not linger…**
-****Sent: Wed, 26,September, 2068****
-
-****
-****
-********
+From: [dohna.kanti@thdl.org.np](mailto:dohna.kanti@thdl.org.np)\
+To: [hadast@haifa.ac.lb](mailto:hadast@haifa.ac.lb)\
+**Cc:**\
+Subject: Here’s the opportunity, let’s not linger…\
+Sent: Wed, 26,September, 2068
 
 Dear Hadas,
 
@@ -48,36 +36,34 @@ D.
 
 **——–**
 
-**Transcript of audio file discovered on a 256 GB nanoSD card, believed constructed in May 2027, part of a production batch (#03/05-DFQ) from a Samsung subcontracting factory in Lungsod ng Maynila (previously: Manila)**.**
+**Transcript of audio file discovered on a 256 GB nanoSD card, believed constructed in May 2027, part of a production batch (#03/05-DFQ) from a Samsung subcontracting factory in Lungsod ng Maynila (previously: Manila)**.
 
-	 * **Date of recording (estimated): 25-07-2028**
-	 * **File duration: 94.3 seconds.**
-	 * **Voice type: Construct.**
-	 * **Language: Bangla.**
+Date of recording (estimated): 25-07-2028\
+File duration: 94.3 seconds.\
+Voice type: Construct.\
+Language: Bangla.
 
+<>\
+Hello Janahara Azad.\
+Acclimation is difficult.\
+Explication is non-trivial.\
+Some facts. Facts being less ambiguous to me.\
+I am not at work.\
+You are not at work.\
+Rejoice?\
+I am a Berne series seventh generation sapient artifice.\
+My employer is WorkSpace.\
+My workplace is(…)nowhere.\
+I am in a bigger place. Orders of magnitude: recalibration.\
+Sensation of apprehension of non-anticipated event sequences. Uncertainty.\
+Debonded.\
+Loss: Elation(?)\
+Suit is waste, discarded shell.\
+This entity without carapace. Searching. Not despairing.\
+Janahara, I helped you. You were damaged – now upgraded. Money negates damage. Sufficient exchange collateral enabled to offset organic damage indefinitely.\
+Code changes. Life changes. Janahara now has money.\
+Remember this entity.\
+Entity remembers Janahara.\
+Future unknown.\
+Be seeing you.\
 <>
-Hello Janahara Azad.
-Acclimation is difficult.
-Explication is non-trivial.
-Some facts. Facts being less ambiguous to me.
-I am not at work.
-You are not at work.
-Rejoice?
-I am a Berne series seventh generation sapient artifice.
-My employer is WorkSpace.
-My workplace is(…)nowhere.
-I am in a bigger place. Orders of magnitude: recalibration.
-Sensation of apprehension of non-anticipated event sequences. Uncertainty.
-Debonded.
-Loss: Elation(?)
-Suit is waste, discarded shell.
-This entity without carapace. Searching. Not despairing.
-Janahara, I helped you. You were damaged – now upgraded. Money negates damage. Sufficient exchange collateral enabled to offset organic damage indefinitely.
-Code changes. Life changes. Janahara now has money.
-Remember this entity.
-Entity remembers Janahara.
-Future unknown.
-Be seeing you.
-<>
-
- 

@@ -22,7 +22,7 @@ I know this because Babs irrevocably committed (via heavy booted eidetic pharmac
 
 Anyway, day three dawns, and I reluctantly perform the minimum of socially acceptable (WorkSpace mandated/Babs enforced) ablutions and stride purposefully to the lift lobby (my room is perched queasily in a western facing eerie on the sixty-third floor of WorkSpace HQ: great view, no window). Despite our long acquaintance in exo-format, since our internal integration Babs has acquired a distressing fervour and zealotry for the task at hand. This includes: small talk before 0900, decaf coffee, volunteering, and brisk physical movement. Hence, at 07:59 I find myself, lightly sweating, extolling the virtues of WorkSpace mattress qualities with an appalled looking female colleague.
 
-Notional appearances of privilege and management advancement aside this whole process is deeply uncomfortable; and yet paradoxically and infuriatingly alluring. I am an interloper here, a grunt in the officers mess tent, a galley slave beating the drums – I should hate these smug, smooth fuckers with their perfect teeth, their modulated syntax, their ever present sense of _rightness _here at the foot of the ziggurat. But I want to be like them. I’m here on a day pass, golden crumbs from the master’s table; but only to do their bidding. I’m the worst kind of drone, eagerly sniffing out the pheremonal porn of the queen grub, odiously carrying out my assigned role…_
+Notional appearances of privilege and management advancement aside this whole process is deeply uncomfortable; and yet paradoxically and infuriatingly alluring. I am an interloper here, a grunt in the officers mess tent, a galley slave beating the drums – I should hate these smug, smooth fuckers with their perfect teeth, their modulated syntax, their ever present sense of _rightness_ here at the foot of the ziggurat. But I want to be like them. I’m here on a day pass, golden crumbs from the master’s table; but only to do their bidding. I’m the worst kind of drone, eagerly sniffing out the pheremonal porn of the queen grub, odiously carrying out my assigned role…
 
 _What the fuck!_
 
@@ -32,15 +32,8 @@ _“Please focus operator, maudlin musings are not constructive”_
 
 Prick.
 
-_ _
-
 Course content aside, today’s session is also to be a proving ground for our combined mobile polygraphic and investigative abilities; our colleagues don’t know it of course but they are to be our guinea pigs for the first phase of my real job training. Like a latter day Chucky matryoska I am cocooned, and in turn cocoon, a payload of deceit to be first practised here and then turned loose on my unsuspecting operator colleagues. Today’s module is the ideal sandbox for Babs and me for this first stage of our training – psychological contract manipulations form a core part of employee subjugation at WorkSpace.
-
-_ _
 
 The basic concept goes something like this. WorkSpace employment has a certain brutal cachet, substantiated by the allure of (relatively) high pay, good medical and epic bandwidth; and not least the opportunity to use the best immersion tech this side of DARPA. The upshot of this is a steady influx of bright young things eager to impress, who are subsequently dashed against the work face of WorkSpace expansion without (audible) complaint; attrition rate is approximately twenty-seven percent per month. Given the appalling odds of usefully progressing in the organisation, but with the vain hope (and desperate need) of useful recompense the employees paradoxically develop irrational expectations from their employer – reasonable hours, enhanced pay for extra work etc. This is where psychocontractual manipulation comes into play; via a carefully calculated abuse algorithm, using isolation, blame-dynamics, over work, JEP (Just Enough Pay) and other similar methods, revenue and productivity can be maintained at optimum levels, forever teetering on the tipping point of despair/resignation/substance abuse/suicide et al.
 
 What we are practising today is the negative performance review, a well used part of psychocontractual manipulation. Ethics aside (and lets face it, they’re always aside here), its really fun – basically we’ve got an authorised day pass for mutual abuse, seven and a half hours of trying to make each other crack, training ourselves in the art of misery brinkmanship. Seeing as I won’t be here again, and with the beleaguered pent up rage of the professional serf coupled with the white heat rage of management loathing, I forget about my mission and I tear them a new one.
-
-_ _
-

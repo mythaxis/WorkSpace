@@ -12,9 +12,9 @@ categories:
 
 The softly glowing virch pointer hovers for a long moment over the Send icon, then, with an involuntary anal clench she fiercely toggles the command.
 
-**Recipient: [hr@workspace.co.uk](mailto:hr@workspace.co.uk)
-Subject: Notice of resignation
-Importance: High**
+Recipient: [hr@workspace.co.uk](mailto:hr@workspace.co.uk)\
+Subject: Notice of resignation\
+Importance: High
 
 ...*Message sent*
 
@@ -30,11 +30,10 @@ Resignation was the number one policy crime in WorkSpace; redundancy was fine of
 
 Agate quickly removed all her clothing, lay down on the floor, and took four controlled breaths in approved NLP fashion, not hyperventilating but preparing physically and mentally for the next distressing eleven minutes (the DeskClear routine had, to the best of anyone’s knowledge, never taken longer than seven hundred seconds). Nano sublimation was first. Any WorkSpace employee occupying a stratum above grunt-level Operator was infested with any number of sub-vascular and lymphatic augmentations, ranging in size from naked eye visible to nanoscale. Employees, like chattel, have value; this value can be carefully enhanced with the judicious application of pharmacology or more subtle nano-factory manipulation at a cellular level. Perhaps most well known (and the one issue that WorkSpace ever ate legal shit on) is the loyalty pump (also sometimes called the goad friend); this is a combination synthesiser/dispenser unit embedded into the wall of the ascending aorta. Able to produce a range of narcotic analogues, the pump most typically infuses the host employee with a cocktail of mildly addictive stimulants, simultaneously enhancing productivity and engendering WorkSpace integration. Akin to nicotine in speed of effect and addictive chokehold, it is possible to refrain from toggling the relevant dosage icon but not common.
 
-The resignation email, in all but one known case, triggers the DeskClear routine. The first act of this expulsion protocol is the removal of proprietary, internal organic WorkSpace technology and property. Using for the last time the organic PAN networks threading the employees skeletal system, cease and desist instructions are sent to the loyalty pump and other subsidiary devices in the host body, the effect is immediate and unpleasant. Nano sublimation is quick, within ninety seconds all internal WorkSpace augments have started to assume a neutral, non-active state, with the largest single component no bigger that than a fish roe. This influx of non-toxic but redundant materiel into the bloodstream and gastrointestinal tract results in an accumulative, non-typical and from a personal point of view, non-trivial voiding event.
+The resignation email, in all but one known case, triggers the DeskClear routine. The first act of this expulsion protocol is the removal of proprietary, internal organic WorkSpace technology and property. Using for the last time the organic PAN networks threading the employees skeletal system, cease and desist instructions are sent to the loyalty pump and other subsidiary devices in the host body, the effect is immediate and unpleasant. Nano sublimation is quick, within ninety seconds all internal WorkSpace augments have started to assume a neutral, non-active state, with the largest single component no bigger than a fish roe. This influx of non-toxic but redundant materiel into the bloodstream and gastrointestinal tract results in an accumulative, non-typical and from a personal point of view, non-trivial voiding event.
 
 Four, repulsive, wet, pungent minutes pass.
 
-The desk and chair, the only two pieces of semi-permanent furniture in the cubicle, disappear into recesses in the wall and floor. A gentle shower of medicated foam starts to spray from four nozzles in the cubicle ceiling. Agate ungues herself from the floor. A closet door slides open behind her, it contains a grey unisex smock, emblazoned with “Leaver” in standard WorkSpace livery.
+The desk and chair, the only two pieces of semi-permanent furniture in the cubicle, disappear into recesses in the wall and floor. A gentle shower of medicated foam starts to spray from four nozzles in the cubicle ceiling. Agate unglues herself from the floor. A closet door slides open behind her, it contains a grey unisex smock, emblazoned with “Leaver” in standard WorkSpace livery.
 
 Agate shucks on the simple garment, the cubicle door slides open and she stumblingly follows the flashing exit chevrons down the walk of shame, a narrow corridor set in between the cubicles; CCTV nodes rotate to follow and record her progress. After forty metres of wobbly legged misery, a simple door slides vertically upwards and Agate is spat out into the grey winter daylight of a London morning. Freedom.
-

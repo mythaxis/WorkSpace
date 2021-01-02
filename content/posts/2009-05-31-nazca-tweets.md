@@ -11,15 +11,11 @@ categories:
 ---
 It could have gone either way. A haven-distributed, largely tax-free windfall of over two hundred and fifty million Euros can have a delirious effect on anyone. To a centless decon worker from the crushing fields of Chittagong it was initially mostly beyond comprehension. A slightly more culture saturated target of benefaction would have gone through the standard stages of lottery burn rate. By the 30s LBR was an established, observable, behaviour meme – infinitesimally marginal lottery variants had been evolved and honed to maximise their pacification effect. Simultaneously micro-taxing and distracting, the reality show, the phone-in, the lotto, the raffled home, had all cohered into a mass participatory amalgam of hysterical, shrieking bullshit that underpinned a billion euro cable market, and a thousand cock sucking remora peripheral outfits eager to cash into one of the few growth markets left. Latterly legitimatised via a number of degree and post-graduate level courses in the subject, Lottery Studies had carefully identified the typical responses stages from the (typically) low income recipient of a lottery win.
 
-Elation: Characterised by intoxicant consumption and list making.
-
-Anxiety denial: OCD levels of concern about security of winner designator (ticket/estub/SMS etc).
-
-Discretion flip-flop: Elation stage wild promises regretted in a fug of hangover.
-
-Belief curve: Dawning realisation that the recipient can now purchase any amount of shiny crap they want.
-
-Consumer phase: Profligate period of conspicuous consumption, characterised by scant regard for tastes, appropriateness or dimensional suitability for the pre-win living space. 
+**Elation**: Characterised by intoxicant consumption and list making.\
+**Anxiety denial**: OCD levels of concern about security of winner designator (ticket/estub/SMS etc).\
+**Discretion flip-flop**: Elation stage wild promises regretted in a fug of hangover.\
+**Belief curve**: Dawning realisation that the recipient can now purchase any amount of shiny crap they want.\
+**Consumer phase**: Profligate period of conspicuous consumption, characterised by scant regard for tastes, appropriateness or dimensional suitability for the pre-win living space. 
 
 Janahara was not particularly intrinsically more discreet, or tasteful, or psychologically balanced than the average winner; it was just that nine years of a slum dwelling childhood, followed by nearly twenty five years of adulthood under the thumb of Iqbal Karim at the Madhom yard had equipped him with only a very specialised set of societal tools. Janahara could have discussed at some length the importance of territorial boundary maintenance in male-only habitation environments, or drone level workplace ingratiation techniques – he could not however name this year’s Big Brother contestants (possibly though he might have approved of the current show format – contestants were now vying for critical medical procedures for both themselves and their families). The result of his privation and relative isolation meant that Janahara was a kind of a cripple, mostly lacking in the ability to consume correctly. As a result his quarter billion Euros paradoxically lacked some of the impact that it might have for another more media reflexive winner. 
 
@@ -35,5 +31,4 @@ A call from his bank manager asking him (with barely contained glee) if he was g
 
 Eventually, it took the hijacking of an infomercial idoru to smash the message home to Janahara. Unable to sleep in the crushing humidity, he was blearily watching an endless demonstration of a pointlessly over-engineered kitchen mandolin on one of the shopping channels when the screen momentarily glitched. The beautifully rendered (ostensibly female) demonstrator dropped its plasticky gee-gaw and looked straight to camera:
 
-**“Janahara, read your fucking email.”** ****
- 
+**“Janahara, read your fucking email.”**
