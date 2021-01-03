@@ -13,8 +13,8 @@ categories:
 
 **WorkSpace Memo**
 
-**Date stamp: 22-06-2028**\
-**Time (EST): 23:47**
+**Date stamp**: 22-06-2028\
+**Time (EST)**: 23:47
 
 **From the desk of Xiu Chen Wong; VP, Tech Overview for Job Maintenance (Europe)**
 

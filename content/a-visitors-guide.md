@@ -9,7 +9,7 @@ menu: "main"
 ---
 
 [![WorkSpace Operator](/wp-content/uploads/2009/05/workspace05wht_alt-255x300.jpg)
-](/wp-content/uploads/2009/05/workspace05wht_alt.jpg)
+](https://www.webarchive.org.uk/en/ukwa/search?text=http%3A%2F%2Fwww.kilbot.co.uk%2Fwp-content%2Fuploads%2F2009%2F05%2Fworkspace05wht_alt-255x300.jpg&search_location=full_text&reset_filters=false&content_type=Web+Page)
 
 Whether you are reading this at my industrial tribunal, as a data archaeologist student, or as drone level sysadmin clearing space off a grandfathered WorkSpace database, I hope it brings you some small distraction from the otherwise humdrum irritations of your work day.
 
@@ -36,7 +36,7 @@ These records may ostensibly present as a diary, but a writer's vanity suggests 
 **TankSpace**: The shared, [virtual immersion environments](/2008/04/09/bullet-point-time/) used extensively throughout WorkSpace. These spaces are accessed via a number of sensory and EEG interface technologies; direct cerebral input has not yet been achieved.
 
 [![Brant](/wp-content/uploads/2009/07/brant_031-209x300.jpg)
-](/wp-content/uploads/2009/07/brant_031.jpg)
+](https://www.webarchive.org.uk/en/ukwa/search?view_filter=va&content_type=Web+Page&from_date=&to_date=&modal_filter_domains_vals=&modal_filter_suffix_vals=&modal_filter_documenttypes_vals=&modal_filter_collections_vals=&filter_source=1&filter_array_x=&filter_array_x_item=&search_location=full_text&text=http%3A%2F%2Fwww.kilbot.co.uk%2Fwp-content%2Fuploads%2F2009%2F07%2Fbrant_031-209x300.jpg&view_sort=relevant&view_count=50)
 
 **Dunking/Dunktime**: Anecdotal/slang term for the act of sensory immersion in a virtual environment.
 
@@ -68,3 +68,6 @@ These records may ostensibly present as a diary, but a writer's vanity suggests 
 
 **Job (Therapy model)**: A specialised Job variant designed to provide a safe, [virtual counselling environment](/2009/03/08/ratchet/). Optimised for empathy enhancement, the Therapy Job provides mental healthcare specialists a unique insight into the suffering of their patients.
 
+> WorkSpace is a episodic narrative located in a fictional, near-future context. WorkSpace may ostensibly present as a science fiction story, but at its core is an examination of the rage and despair inducing frustrations of life in a modern workplace.\
+\
+[kilbot.co.uk Web Memento 2009.03.19.03:46:15](https://web.archive.org/web/20090319034615/http://www.kilbot.co.uk/)
