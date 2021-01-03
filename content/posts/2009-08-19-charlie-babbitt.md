@@ -26,7 +26,7 @@ Early attempts at creating workable liaison environments for the non-technical r
 
 **Simon**: _"Fuck you"_.
 
-**MP**: Ok then, let’s talk about what you called the…(_soft beep as the MP consults his notes_)…endless towers."
+**MP**: "Ok then, let’s talk about what you called the…(_soft beep as the MP consults his notes_)…endless towers."
 
 **Simon**: _"Where’s the fucking sushi I ordered?"_
 

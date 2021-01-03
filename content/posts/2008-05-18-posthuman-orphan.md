@@ -10,7 +10,7 @@ categories:
 - WorkSpace
 ---
 
-Fast Track: Week 2; Day 2.
+**Fast Track: Week 2; Day 2.**
 
 What a terrible fucking day. Someone died in class. We were half way through "Redistribution of Economic Profit Zones: Sino-Consumption Trends", when it happened. I had only got to know Rhiain a little over the past week or so, she was a small, quiet, slight Welsh girl with a lilting accent, only slightly dulled by WorkSpace vernacular and three years of living in Hackney.
 
