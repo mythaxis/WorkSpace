@@ -13,8 +13,6 @@ categories:
 
 **Dateline: 08/06/2026**
 
-****
-
 **08:40**\
 Today is the first day in my new Job, it arrives soon. The induction epack told me a courier was scheduled to arrive before nine.
 

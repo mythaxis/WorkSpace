@@ -12,7 +12,7 @@
     {{ end }}
     <title>
         {{ block "title" . }}
-        {{ .Title | markdownify}}
+        {{ .Title | markdownify}} &lt; {{ .Site.Title | markdownify }}
         {{ end }}
     </title>
 </head>
