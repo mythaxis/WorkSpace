@@ -70,4 +70,4 @@ These records may ostensibly present as a diary, but a writer's vanity suggests 
 
 > WorkSpace is a episodic narrative located in a fictional, near-future context. WorkSpace may ostensibly present as a science fiction story, but at its core is an examination of the rage and despair inducing frustrations of life in a modern workplace.\
 \
-[kilbot.co.uk Web Memento 2009.03.19.03:46:15](https://web.archive.org/web/20090319034615/http://www.kilbot.co.uk/)
+[_<kilbotpost. The Daily Rage historical broadcast | web memento.DATESTAMP: 2009.03.19.03:46:15>_](https://web.archive.org/web/20090319034615/http://www.kilbot.co.uk/)

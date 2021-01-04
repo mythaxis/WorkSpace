@@ -21,7 +21,7 @@
     {{ block "main" . }}
     {{ block "section_title" . }}
     <header class="wrap flex-container">
-        <h3><a href='{{ .Site.BaseURL | relURL }}'>{{ .Site.Title }}</a> &lt;</h3></h3>
+        <h3><a href='{{ .Site.BaseURL | relURL }}'>{{ .Site.Title }}</a> &larr;</h3></h3>
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     {{ end }}

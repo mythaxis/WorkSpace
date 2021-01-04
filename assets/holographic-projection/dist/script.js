@@ -1,21 +1,3 @@
-{{ $main := resources.Get "js/particles.min.js" }}
-<script src='{{ $main.RelPermalink }}'></script>
-
-
- <script src="https://unpkg.com/three@0.83.0"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.5.1/dat.gui.min.js"></script>
-<script src="https://unpkg.com/three@0.83.0/examples/js/shaders/CopyShader.js"></script>
-<script src="https://unpkg.com/three@0.83.0/examples/js/postprocessing/EffectComposer.js"></script>
-<script src="https://unpkg.com/three@0.83.0/examples/js/postprocessing/RenderPass.js"></script>
-<script src="https://unpkg.com/three@0.83.0/examples/js/postprocessing/ShaderPass.js"></script>
-<script src="https://unpkg.com/three@0.83.0/examples/js/shaders/HorizontalBlurShader.js"></script>
-<script src="https://unpkg.com/three@0.83.0/examples/js/shaders/VerticalBlurShader.js"></script>
-<script src="https://unpkg.com/three@0.83.0/examples/js/shaders/FilmShader.js"></script>
-<script src="https://unpkg.com/three@0.83.0/examples/js/shaders/LuminosityHighPassShader.js"></script>
-<script src="https://unpkg.com/three@0.83.0/examples/js/postprocessing/UnrealBloomPass.js"></script>
-<script src="https://cdn.rawgit.com/felixturner/bad-tv-shader/master/BadTVShader.js"></script>
-
-<script id="rendered-js">
 THREE.VolumetericLightShader = {
   uniforms: {
     tDiffuse: { value: null },
@@ -394,5 +376,3 @@ setupPostprocessing();
 onFrame();
 setupGUI();
 addRenderTargetImage();
-//# sourceURL=pen.js
-    </script>
