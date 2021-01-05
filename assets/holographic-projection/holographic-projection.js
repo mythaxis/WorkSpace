@@ -117,7 +117,7 @@ const lightColor = 0x0099ff;
 const DEFAULT_LAYER = 0;
 const OCCLUSION_LAYER = 1;
 const renderScale = .25;
-// const gui = new dat.GUI();
+const gui = new dat.GUI();
 const clock = new THREE.Clock();
 
 let composer,
@@ -374,5 +374,5 @@ function addRenderTargetImage() {
 setupScene();
 setupPostprocessing();
 onFrame();
-// setupGUI();
+setupGUI();
 addRenderTargetImage();
