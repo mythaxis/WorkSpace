@@ -5,7 +5,10 @@
 <nav role="navigation">
     <ul>
         {{ range .Data.Pages.ByDate }}
-        <li><a href="{{.RelPermalink}}">{{.Title | markdownify}}</a></li>
+		<li>
+	        <meta name="format-detection" content="telephone=no">{{ slicestr (md5 .Title) 0 6 }}</meta> <glyph>&rarr;</glyph>
+	        <a href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
+	   	</li>
         {{ end }}
     </ul>
 </nav>
