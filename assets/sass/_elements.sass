@@ -96,6 +96,9 @@ article
     & ol
         list-style: decimal outside
         padding-left: 2rem
+        li::marker
+            content: counter(list-item) " →"
+            font-family: $header-font
     & .gist
         max-width: 100%
         td, th

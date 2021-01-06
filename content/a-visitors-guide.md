@@ -15,7 +15,7 @@ Whether you are reading this at my industrial tribunal, as a data archaeologist 
 
 This is deep backchannel, as far as I can tell no one has broken my crypto yet – my analytics show zero – so the photons striking whatever passes for eyes where you’re at are conveying bona fide, grass roots, uncensored serf level worker angst. 
 
-My story starts here: _[Emotional Machine](/2008/03/06/emotional-machine/)_. _New jobs are always a bitch but the tone was certainly set early and hard for me. A no frills [Operator](/2008/04/09/bullet-point-time/)_ job, a reluctant, tiny cog in the WorkSpace corporation.
+My story starts here: _[Emotional Machine](/2008/03/06/emotional-machine/)_. New jobs are always a bitch but the tone was certainly set early and hard for me. A no frills _[Operator](/2008/04/09/bullet-point-time/)_ job, a reluctant, tiny cog in the WorkSpace corporation.
 
 Against all my expectations it was a swift and uncomfortable elevation from a macjob level position in WorkSpace development, to an unwilling Cat's Paw of a faceless, corporate WorkSpace management team. Some malign serendipity meant that I was forced into a clandestine investigation into an [industrial espionage](/2008/04/17/quizling/) event that looked like it may reach deep into the upper levels of WorkSpace.
 
@@ -70,4 +70,4 @@ These records may ostensibly present as a diary, but a writer's vanity suggests 
 
 > WorkSpace is a episodic narrative located in a fictional, near-future context. WorkSpace may ostensibly present as a science fiction story, but at its core is an examination of the rage and despair inducing frustrations of life in a modern workplace.\
 \
-[kilbot.co.uk Web Memento 2009.03.19.03:46:15](https://web.archive.org/web/20090319034615/http://www.kilbot.co.uk/)
+[_<kilbotpost. The Daily Rage historical broadcast | web memento.DATESTAMP: 2009.03.19.03:46:15>_](https://web.archive.org/web/20090319034615/http://www.kilbot.co.uk/)

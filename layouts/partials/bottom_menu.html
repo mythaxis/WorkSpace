@@ -1,7 +1,8 @@
 <hr />
 <p>
 {{ if .Page.Site.Params.mainMenu }}
-    {{ range first 1 .Page.Site.Params.mainMenu }}<a href="{{ .link | relURL }}">{{ .text }}</a>{{ end }}
-    {{ range after 1 .Page.Site.Params.mainMenu }} &lt; <a href="{{ .link | relURL }}">{{ .text }}</a>{{ end }}
+    {{ range first 1 .Page.Site.Params.mainMenu }}
+    <a href="{{ .link | relURL }}">{{ .text }}</a>{{ end }}
+    {{ range after 1 .Page.Site.Params.mainMenu }} <glyph>&larr;</glyph> <a href="{{ .link | relURL }}">{{ .text }}</a>{{ end }}
 {{ end }}
 </p>

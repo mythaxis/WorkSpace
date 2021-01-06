@@ -6,7 +6,9 @@
     <ul>
         {{ range .Data.Pages.ByDate }}
         <li>
-            {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}}<a href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
+            <meta name="format-detection" content="telephone=no">{{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}}</meta>
+            <glyph>&rarr;</glyph>
+            <a href="{{.RelPermalink}}">{{.Title | markdownify}}</a>
         </li>
         {{ end }}
     </ul>
