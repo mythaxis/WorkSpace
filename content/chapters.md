@@ -24,5 +24,4 @@ type: page
 1. [Warped]({{< relref path="categories/warped" >}})
 1. [The Deal]({{< relref path="posts/2010-07-02-the-deal.md" >}})
 
-testing 
-
+Testing!
