@@ -17,3 +17,6 @@
 
 # Hugo gen directory
 _gen
+
+.DS_Store
+**/.DS_Store
