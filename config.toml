@@ -42,7 +42,7 @@ publishDir               = "docs"                           # for github pages
     text = "Posts"
 
 [[params.mainMenu]]
-    link = "chapters"
+    link = "chapters/"
     text = "Chapters"
 
 [[params.mainMenu]]
