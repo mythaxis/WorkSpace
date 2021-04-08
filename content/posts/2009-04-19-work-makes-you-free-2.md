@@ -14,4 +14,5 @@ Screen burn, carpet wear
 
 Voice mail hell: Press Star then Hash
 
-Thank fuck for vodka.
+Thank fuck for vodka
+
