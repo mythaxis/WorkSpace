@@ -20,7 +20,7 @@ We didn’t notice for a few seconds, Rhiain had seemed to reach a natural pause
 
 Rhiain’s face was parchment white, her eyes pinned to the middle distance. The left side of her face was distorted, there appeared to be no facial muscle tone and the corner of her mouth tugged downwards, a trail of saliva snailed down the side of her neck. The left eyelid drooped partially shut.
 
-Babs came online on subvocal: _"Rhiain is dead, operator"._ Our combined boosted senses, designed for industrial sleuthing had given us an early heads-up on the situation. My remote electrocardiograph subliminally pinged us a brain death alert as it happened – Babs processed the data and let me know. Knowledge is all very well, but until you see one half of a human/Job symbiote die then you can’t know the zombie horror of the remaining pseudo-life; possibly even worse than that is the clumsily articulated machine grief of the bereft AI.
+Babs came online on subvocal: _"Rhiain is dead, operator"._ Our combined boosted senses, designed for industrial sleuthing had given us an early heads-up on the situation. My remote electrocardiograph subliminally pinged us a brain death alert as it happened—Babs processed the data and let me know. Knowledge is all very well, but until you see one half of a human/Job symbiote die then you can’t know the zombie horror of the remaining pseudo-life; possibly even worse than that is the clumsily articulated machine grief of the bereft AI.
 
 Rhiain spoke in a terrible, scratchy croak.
 

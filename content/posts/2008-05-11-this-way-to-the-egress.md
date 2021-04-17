@@ -22,7 +22,7 @@ She tears off the goggles with trembling hands, she hasn’t bothered to fully d
 
 The response, whilst not instantaneous (machine intelligence has to find time to interface with its tardy human counterparts), is violently swift. Power dies in the cubicle, it’s a standard non-fenestrated unit so the only light comes from the OLED glow from Agate’s PetaBook screen; running on filched induction it’s the only item (clothing included) that does not belong ultimately to WorkSpace.
 
-Bandwidth is next; her ocular overlay HUD dwindles to dormant state, all augment functions offlined in a fifth of a second. Even the most basic search tunnels are closed to her, as she discovers as she flails for a valid access greb. AIMs: gone. Email: gone. WorkSpace net access: denied. Unbelievably – cubicle aircon: offline.
+Bandwidth is next; her ocular overlay HUD dwindles to dormant state, all augment functions offlined in a fifth of a second. Even the most basic search tunnels are closed to her, as she discovers as she flails for a valid access greb. AIMs: gone. Email: gone. WorkSpace net access: denied. Unbelievably—cubicle aircon: offline.
 
 She thought she had prepared for this. The clandestine rehab group Life After WorkSpace (LAW) had been counselling her for the past seven weeks; disparate cells of Work ravaged refugees offering solace to wannabe fence jumpers. They met every Tuesday night at a randomly selected Starbucks, never drinking the coffee but always direct tipping. There was one primary message: **It’s not illegal, and they can’t hurt you.**
 

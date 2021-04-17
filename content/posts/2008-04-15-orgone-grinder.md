@@ -38,7 +38,7 @@ As such, your Job’s will shortly be receiving the appropriate system reformat 
 
 - H4DAPI will also permit the rollout of revised Reward/Discipline subroutines. Extensive WorkSpace research has shown the delays imposed in the reward/penalty response time result in a poorly articulated corporate->operator message. HapLIS deployment will enable near-immediate (positive/negative) sensory feedback to the operator resulting in definitive clear-message understanding. Similarly, the licensed PAVlove application will ensure greatly reduced repetitive (accidental or otherwise) misapplication of proprietary WorkSpace tools and resources.
 
-All Operators will acknowledge receipt and understanding of this memo by 00:04 at the latest – pingback failure will result in forfeit of 10 kiloseconds of leisure downtime. Operators should also be aware that Job reformat will result in an RL divest of two days – WorkSpace is pleased to announce that for this period a series of team building away-sessions have been devised to further the coherence of WorkSpace efficiency and to better foster a happy working environment.
+All Operators will acknowledge receipt and understanding of this memo by 00:04 at the latest—pingback failure will result in forfeit of 10 kiloseconds of leisure downtime. Operators should also be aware that Job reformat will result in an RL divest of two days—WorkSpace is pleased to announce that for this period a series of team building away-sessions have been devised to further the coherence of WorkSpace efficiency and to better foster a happy working environment.
 
 Check your skeds, guys.
 

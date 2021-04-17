@@ -34,7 +34,7 @@ _N_ volunteered to assist with setting up the first team building fun task. Las
 
 **10:01**\
 During the refreshment break _N_ avoided the sugar-rich brunch confections and authorised caffeine beverages. This agent noted that _N_ consumed/imbibed homemade nourishment; audio pickups inferred from self-directed comments by _N_ that it was partially soy based. This agent is unable to extrapolate the relevance of the following comment by _N_:
-_"You try fucking eating this swill, Babs – please let me have a donut"_
+_"You try fucking eating this swill, Babs—please let me have a donut"_
 
 **11:13**\
 _N_ was involved in the resolution of a group infraction. During the third team building exercise of the a.m. period (cross-cultural Sino-Anglo business protocols: Correct repast techniques) an altercation between Operator 1278 and Operator 9812 broke out. This agent is not equipped with baseline human peer-bonding analysis routines and is therefore not able to comment on the following recorded audio:

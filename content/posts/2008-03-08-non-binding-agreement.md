@@ -14,7 +14,7 @@ DownTime overlays as my clock rolls past 16k seconds. The haematic assay has det
 
 A curt text horiscroll rudely bumps the load screen though: **"Mandatory KPI overview scheduled in 3200 seconds, please ensure dunk readiness to facilitate prompt processing".**
 
-I sigh inwardly (my control over autonomic displays of physical frustration is long practised and nothing gets through the loyalty buffer); I suppose it had to happen sooner or later, nearly two weeks in with new Job and no direct avatime yet with management – I was going to have to justify my existence to the man.
+I sigh inwardly (my control over autonomic displays of physical frustration is long practised and nothing gets through the loyalty buffer); I suppose it had to happen sooner or later, nearly two weeks in with new Job and no direct avatime yet with management—I was going to have to justify my existence to the man.
 
 DownTime passes pleasantly enough, three thousand seconds isn’t really long enough to disinter so I access some newsfeeds and toggle a wank to take the edge off, Babs oversees tumescence and the subsequent refractory management; I come almost absentmindedly.
 
