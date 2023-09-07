@@ -4,6 +4,7 @@ date: 2020-12-28 19:46:50+00:00
 draft: false
 title: "Chapters"
 type: page
+url: chapters.html
 background:
   background_image: images/robot-2301646_1920.jpg
   background_blend_mode: color-dodge

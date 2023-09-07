@@ -2,7 +2,7 @@ baseURL: ""
 languageCode: "en-gb"
 title: "WorkSpace"
 theme: "paperback"
-# googleAnalytics: "UA-146012578-1"
+googleAnalytics: "G-HLLJQL5J00"
 uglyurls: true
 relativeurls: true
 canonifyURLs: true
@@ -30,19 +30,40 @@ permalinks:
 menu:
   main:
     - name: A Visitors Guide
-      url: visitors-guide
+      url: a-visitors-guide.html
       weight: -10
     - name: Chapters
-      url: /chapters.html
+      url: chapters.html
       weight: -9
     - name: Posts
-      url: /posts.html
+      url: posts.html
       weight: -8
     - name: Categories
-      url: /categories.html
+      url: categories.html
       weight: -7
   # Sources menu
   sources:
     - name: Mythaxis magazine
       url: https://mythaxis.co.uk
       weight: -9
+
+
+# MythAxis website privacy settings
+# https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings
+privacy:
+  googleAnalytics:
+    disable: false
+    anonymizeIP: true
+    respectDoNotTrack: true
+    useSessionStorage: true
+  youtube:
+    disable: true
+    privacyEnhanced: true
+  disqus:
+    disable: true
+  instagram:
+    disable: true
+  twitter:
+    disable: true
+  vimeo:
+    disable: true

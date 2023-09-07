@@ -270,11 +270,20 @@ h1 {
 .front h1 {
     font-size: 4em;
 }
+article h2 {
+  margin-top: 1em;
+}
 h3 {
     font-size: 1.17em;
 }
 h3.home {
     opacity: 1.0;
+}
+article p {
+  margin-top: 0.5em;
+}
+article > p:first-child {
+  margin-top: 0;
 }
 
 /* Site navs */
@@ -308,6 +317,10 @@ nav.head-nav {
     text-align: left;
     opacity: 0.6;
 }
+nav.section-nav {
+    margin-top: 0.8rem;
+}
+
 footer.site-footer {
     font-size: 0.9rem;
     opacity: 0.6;
@@ -352,7 +365,9 @@ body.list article {
   columns: 2;
   width: 700px;
 }
-
+body.single article {
+  width: 600px;
+}
 
 /* other */
 blockquote {
@@ -417,10 +432,3 @@ ul li span::after {
     content: " →";
     font-family: Karrik, Arial, sans-serif;
 }
-
-/*bold link colour #d0cda9
-
-
-
-
-

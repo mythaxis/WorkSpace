@@ -4,13 +4,14 @@ date: 2009-04-14 21:19:56+00:00
 draft: false
 title: A Visitor's Guide
 type: page
-url: /visitors-guide/
-hologram: /images/robot-2186155_1920.png
+url: a-visitors-guide.html
+background:
+  background_image: images/robot-2186155_1920.png
+  background_position: bottom 0px left 650px
+  background_blend_mode: color-dodge
+  background_size: 350px
+  background_attachment: fixed
 ---
-
-
-[![WorkSpace Operator](/wp-content/uploads/2009/05/workspace05wht_alt-255x300.jpg)
-](https://www.webarchive.org.uk/en/ukwa/search?text=http%3A%2F%2Fwww.kilbot.co.uk%2Fwp-content%2Fuploads%2F2009%2F05%2Fworkspace05wht_alt-255x300.jpg&search_location=full_text&reset_filters=false&content_type=Web+Page)
 
 Whether you are reading this at my industrial tribunal, as a data archaeologist student, or as drone level sysadmin clearing space off a grandfathered WorkSpace database, I hope it brings you some small distraction from the otherwise humdrum irritations of your work day.
 
