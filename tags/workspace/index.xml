@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WorkSpace</title>
-    <link>/tags/workspace.html</link>
+    <link>https://mythaxis.github.io/WorkSpace/tags/workspace.html</link>
     <description>Recent content on WorkSpace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 16 Mar 2008 14:00:44 +0000</lastBuildDate><atom:link href="/tags/workspace/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Mar 2008 14:00:44 +0000</lastBuildDate><atom:link href="https://mythaxis.github.io/WorkSpace/tags/workspace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Null cipher</title>
-      <link>/2008/03/16/null-cipher/</link>
+      <link>https://mythaxis.github.io/WorkSpace/2008/03/16/null-cipher/</link>
       <pubDate>Sun, 16 Mar 2008 14:00:44 +0000</pubDate>
       
-      <guid>/2008/03/16/null-cipher/</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/2008/03/16/null-cipher/</guid>
       <description>I’m not going to tell you my name.
 That’s SOP I’m afraid for your average WorkSpace employee; constant surveillance tends to breed a certain phobic reaction to divulging personal information unnecessarily. This reticence has a certain pitiful bravado about it; ethnographers early last decade first noticed this trend towards self-censorship on the lowest corporate rungs. Call centre staff in the double oughts, while exposed to the full merciless blast of the futile howling public, instinctively and rapidly learned the power of true names; the substitution of &amp;ldquo;Operator #MT128&amp;rdquo; or similar became commonplace—the only privacy bastion (savagely protected) left in a terminally denuded workspace.</description>
     </item>

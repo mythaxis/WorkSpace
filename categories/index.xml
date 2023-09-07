@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on WorkSpace</title>
-    <link>/categories.html</link>
+    <link>https://mythaxis.github.io/WorkSpace/categories.html</link>
     <description>Recent content in Categories on WorkSpace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mythaxis.github.io/WorkSpace/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warped</title>
-      <link>/categories/warped.html</link>
+      <link>https://mythaxis.github.io/WorkSpace/categories/warped.html</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/warped.html</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/categories/warped.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>WorkSpace</title>
-      <link>/categories/workspace.html</link>
+      <link>https://mythaxis.github.io/WorkSpace/categories/workspace.html</link>
       <pubDate>Sun, 10 Apr 2011 13:36:15 +0000</pubDate>
       
-      <guid>/categories/workspace.html</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/categories/workspace.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Janahara</title>
-      <link>/categories/janahara.html</link>
+      <link>https://mythaxis.github.io/WorkSpace/categories/janahara.html</link>
       <pubDate>Fri, 02 Jul 2010 11:39:28 +0000</pubDate>
       
-      <guid>/categories/janahara.html</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/categories/janahara.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infodump</title>
-      <link>/categories/infodump.html</link>
+      <link>https://mythaxis.github.io/WorkSpace/categories/infodump.html</link>
       <pubDate>Wed, 19 Aug 2009 23:12:47 +0000</pubDate>
       
-      <guid>/categories/infodump.html</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/categories/infodump.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brant</title>
-      <link>/categories/brant.html</link>
+      <link>https://mythaxis.github.io/WorkSpace/categories/brant.html</link>
       <pubDate>Sun, 02 Aug 2009 15:58:30 +0000</pubDate>
       
-      <guid>/categories/brant.html</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/categories/brant.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life After WorkSpace</title>
-      <link>/categories/life-after-workspace.html</link>
+      <link>https://mythaxis.github.io/WorkSpace/categories/life-after-workspace.html</link>
       <pubDate>Sun, 02 Aug 2009 15:58:30 +0000</pubDate>
       
-      <guid>/categories/life-after-workspace.html</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/categories/life-after-workspace.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Operator 1338</title>
-      <link>/categories/operator-1338.html</link>
+      <link>https://mythaxis.github.io/WorkSpace/categories/operator-1338.html</link>
       <pubDate>Tue, 19 May 2009 20:45:26 +0000</pubDate>
       
-      <guid>/categories/operator-1338.html</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/categories/operator-1338.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pardis</title>
-      <link>/categories/pardis.html</link>
+      <link>https://mythaxis.github.io/WorkSpace/categories/pardis.html</link>
       <pubDate>Sun, 19 Apr 2009 15:50:55 +0000</pubDate>
       
-      <guid>/categories/pardis.html</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/categories/pardis.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tad Revert</title>
-      <link>/categories/tad-revert.html</link>
+      <link>https://mythaxis.github.io/WorkSpace/categories/tad-revert.html</link>
       <pubDate>Thu, 31 Jul 2008 20:27:50 +0000</pubDate>
       
-      <guid>/categories/tad-revert.html</guid>
+      <guid>https://mythaxis.github.io/WorkSpace/categories/tad-revert.html</guid>
       <description></description>
     </item>
     
