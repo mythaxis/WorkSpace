@@ -2,7 +2,7 @@
   {{ with .Params.background }}
 	html {
   {{ with .background_image }}
-    background-image: url('{{ . | relURL }}');{{ end }}
+    background-image: url('{{ . | absURL }}');{{ end }}
 
   {{ with .background_repeat  | default "no-repeat" }}
     background-repeat: {{ . }};{{ end }}
