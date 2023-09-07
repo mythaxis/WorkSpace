@@ -316,7 +316,7 @@
   <hr />
   
       
-      <a href="../visitors-guide">A Visitors Guide</a>
+      <a href="../a-visitors-guide.html">A Visitors Guide</a>
        <glyph>&larr;</glyph> <a href="../chapters.html">Chapters</a> <glyph>&larr;</glyph> <a href="../posts.html">Posts</a> <glyph>&larr;</glyph> <a href="../categories.html">Categories</a>
   
 </nav>
@@ -340,8 +340,29 @@
   
 
   
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'G-HLLJQL5J00', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
-  <!-- Build date: Thu, 07 Sep 2023 03:48:13 UTC -->
+
+  <!-- Build date: Thu, 07 Sep 2023 04:53:07 UTC -->
 </footer>
 
   </main>
