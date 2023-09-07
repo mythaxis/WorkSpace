@@ -1,1 +1,22 @@
-<a href='{{ .Site.BaseURL | relURL }}'>{{ .Site.Params.Title | safeHTML }}</a>
+<footer class="site-footer">
+  {{ if not .IsHome }}
+    <h3 class="home">
+      <a href='{{ .Site.BaseURL | relURL }}'>{{ .Site.Params.Title | safeHTML }}</a>
+    </h3>
+  {{ end }}
+
+  <div class="jitterable">
+    <input type="checkbox" id="switch" checked>
+    <label for="switch" class="switch-label">Jitter?</label>
+  </div>
+  
+  <span class="owner">©{{ now.Year }} {{ .Site.Params.authorname }}</span><br />
+
+  {{ range .Site.Menus.sources }}
+  <a href="{{ .URL }}"><span>{{ .Name }}</span></a>
+  {{ end }}
+
+  {{ partial "analytics.html" . }}
+
+  {{ "<!-- Build date: " | safeHTML }}{{ (now.Format "Mon, 02 Jan 2006 15:04:05 MST") | safeHTML }}{{ " -->" | safeHTML }}
+</footer>

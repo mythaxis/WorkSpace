@@ -1,0 +1,27 @@
+<style>
+  {{ with .Params.background }}
+	html {
+  {{ with .background_image }}
+    background-image: url('{{ . | relURL }}');{{ end }}
+
+  {{ with .background_repeat  | default "no-repeat" }}
+    background-repeat: {{ . }};{{ end }}
+
+  {{ with .background_position | default "top 0px left 0px" }}
+    background-position: {{ . }};{{ end }}
+
+  {{ with .background_attachment | default "scroll" }}
+    background-attachment: {{ . }};{{ end }}
+
+  {{ with .background_size | default "cover" }}
+    background-size: {{ . }};{{ end }}
+
+  {{ with .background_blend_mode }}
+    background-blend-mode: {{ . }};{{ end }}
+
+  {{ with .background_color }}
+    background-color: {{ . }};{{ end }}
+
+	}
+  {{ end }}
+</style>

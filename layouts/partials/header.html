@@ -1,0 +1,12 @@
+<header>
+  {{ if not .IsHome }}
+  <nav class="head-nav">
+    <a href="{{ .Site.Home.RelPermalink | relURL }}"><span>{{ .Site.Title | safeHTML }}</span></a> &larr;
+    {{ if eq .Kind "term" }}
+    <a href="/categories.html"><span>Categories</span></a>
+    {{ end }}
+  </nav>
+  {{ end }}
+  
+  <h1>{{ .Title | markdownify }}</h1>
+</header>

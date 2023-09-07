@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body class="categories warped">
+  {{ partial "bgstyle.html" . }}
+
+  <main class="flex-container container">
+    {{ partial "header.html" . }}
+
+    {{ .Content }}
+    
+    <article>
+      <ul>
+        {{ range where .Site.RegularPages "Section" "warped" }}
+            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+    </ul>
+    </article>
+
+    {{ partial "nav.html" . }}
+    {{ partial "footer.html" . }}
+
+  </main>
+</body>
+</html>

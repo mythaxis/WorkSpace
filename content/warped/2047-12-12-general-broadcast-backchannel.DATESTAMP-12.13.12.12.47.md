@@ -3,7 +3,7 @@ author: anon
 date: 2047-12-12 12:13:00+00:00
 draft: false
 title: "<anonpost. general broadcast|backchannel.DATESTAMP: 12:13.12.12.47>"
-type: post
+type: page
 categories:
 - Warped
 tags:
