@@ -24,7 +24,7 @@ jobs:
       - name: Build hugo site
         env:
           HUGO_BASE_URL: ${{ secrets.GHPAGES_BASEURL }}
-        run: hugo -F ${HUGO_BASE_URL}
+        run: hugo -F --baseURL ${HUGO_BASE_URL}
 
       - name: Deploy ./docs to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
