@@ -8,10 +8,10 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - name: Git checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           submodules: recursive
 
@@ -25,10 +25,6 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '14'
-
-
-      - name: Install autoprefixer and postcss-cli node packages
-        run: npm i -g postcss postcss-cli autoprefixer
 
       - name: Build hugo site
         run: hugo -F
