@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://mythaxis.github.io/WorkSpace/"
 languageCode: "en-gb"
 title: "WorkSpace"
 theme: "paperback"
