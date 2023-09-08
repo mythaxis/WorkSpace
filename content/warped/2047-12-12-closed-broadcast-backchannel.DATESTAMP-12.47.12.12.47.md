@@ -4,6 +4,7 @@ date: 2047-12-12 12:47:00+00:00
 draft: false
 title: "<Gabrielpost. closed broadcast|personal FB log.DATESTAMP: 12:47.12.12.47>"
 type: page
+weight: 6
 categories:
 - Warped
 tags:

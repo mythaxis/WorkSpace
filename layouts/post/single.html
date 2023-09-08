@@ -4,27 +4,27 @@
 {{ partial "head.html" . }}
 
 <body class="post single">
-  <main class="container">
+  {{ partial "bgstyle.html" . }}
+
+  <main class="flex-container container">
 
     {{ partial "header.html" . }}
 
     <article>
       {{ .Content }}
-    </article>
-    
-    <nav>
-      {{ with .NextInSection }}
+    </article> 
+
+   {{ with .NextInSection }}
+    <nav class="section-nav">  
       <h3 class="go-center">&rarr; <a class="next" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h3>
-      {{ end }}
     </nav>
+    {{ end }}
 
     {{ partial "nav.html" . }}
 
     {{ partial "footer.html" . }}
 
   </main>
-
-  {{ partial "highlight" . }}
 
 </body>
 

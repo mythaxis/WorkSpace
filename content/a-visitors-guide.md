@@ -37,9 +37,6 @@ These records may ostensibly present as a diary, but a writer's vanity suggests 
 
 **TankSpace**: The shared, [virtual immersion environments](/2008/04/09/bullet-point-time/) used extensively throughout WorkSpace. These spaces are accessed via a number of sensory and EEG interface technologies; direct cerebral input has not yet been achieved.
 
-[![Brant](/wp-content/uploads/2009/07/brant_031-209x300.jpg)
-](https://www.webarchive.org.uk/en/ukwa/search?view_filter=va&content_type=Web+Page&from_date=&to_date=&modal_filter_domains_vals=&modal_filter_suffix_vals=&modal_filter_documenttypes_vals=&modal_filter_collections_vals=&filter_source=1&filter_array_x=&filter_array_x_item=&search_location=full_text&text=http%3A%2F%2Fwww.kilbot.co.uk%2Fwp-content%2Fuploads%2F2009%2F07%2Fbrant_031-209x300.jpg&view_sort=relevant&view_count=50)
-
 **Dunking/Dunktime**: Anecdotal/slang term for the act of sensory immersion in a virtual environment.
 
 **The Gaunt**: [Physical headquarters for WorkSpace (UK)](/2008/04/23/the-defiant-one/) located in London. The Gaunt has a virtual (virch) analogue called WorkSpace Prime. 

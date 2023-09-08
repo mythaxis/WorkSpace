@@ -13,7 +13,7 @@
     
     <article>
       <ul>
-        {{ range where .Site.RegularPages "Section" "warped" }}
+        {{ range .Data.Pages.ByWeight }}
             <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
         {{ end }}
     </ul>

@@ -4,6 +4,7 @@ date: 2047-12-11 23:04:00+00:00
 draft: false
 title: "<anonpost. general broadcast|backchannel.DATESTAMP: 23:04.11.12.47>"
 type: page
+weight: 3
 categories:
 - Warped
 tags:
