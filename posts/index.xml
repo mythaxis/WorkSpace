@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on WorkSpace</title>
+    <title>Datadump on WorkSpace</title>
     <link>https://mythaxis.github.io/WorkSpace/posts.html</link>
-    <description>Recent content in Posts on WorkSpace</description>
+    <description>Recent content in Datadump on WorkSpace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mythaxis.github.io/WorkSpace/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -482,7 +482,7 @@ The Examinds are the other half of the equation, the shiny future bit tugging th
     </item>
     
     <item>
-      <title>Rez</title>
+      <title>Rez*</title>
       <link>https://mythaxis.github.io/WorkSpace/2008/03/18/rez/</link>
       <pubDate>Tue, 18 Mar 2008 18:22:46 +0000</pubDate>
       

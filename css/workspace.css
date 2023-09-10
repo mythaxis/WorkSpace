@@ -399,7 +399,10 @@ article blockquote {
     border-radius: 3px;
 }
 article blockquote a {
-    color:  black;
+    color: black;
+}
+article blockquote strong {
+    color: #6d6000;
 }
 article li {
     line-height: 2;
