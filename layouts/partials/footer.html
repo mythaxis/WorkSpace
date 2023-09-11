@@ -5,10 +5,7 @@
     </h3>
   {{ end }}
 
-  <div class="jitterable">
-    <input type="checkbox" id="switch" checked>
-    <label for="switch" class="switch-label">Jitter?</label>
-  </div>
+  {{ partial "font-changer.html" . }}
   
   <span class="owner">©{{ now.Year }} {{ .Site.Params.authorname }}</span><br />
 

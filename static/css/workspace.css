@@ -182,16 +182,17 @@
 
 
 /* Whole page flickers, then headings flicker a bit longer*/
-body {
+body.calligraphic {
     animation-duration: 0.01s;
     animation-name: textflicker;
     animation-delay: 0s;
     animation-iteration-count: 100;
     animation-direction: alternate;      
 }
-h1, h2, h3, nav.front-nav,
-nav.head-nav,
-footer.site-footer
+.calligraphic h1, .calligraphic h2, .calligraphic h3, 
+.calligraphic nav.front-nav,
+.calligraphic nav.head-nav,
+.calligraphic footer.site-footer
  {
     animation-duration: 0.01s;
     animation-name: textflicker;

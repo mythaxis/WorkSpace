@@ -1,0 +1,67 @@
+<script type="text/javascript">
+// Does what the function says
+function toggleCaligraphic(t) {
+	setCaligraphic(1-getCaligraphic());
+}
+
+// Set the caligraphic cookie/class state on page load
+function setCaligraphic(enabled) {
+	if (enabled) {
+		document.body.classList.add('calligraphic');
+		document.getElementById('switch').checked = true;
+		setCookie('calligraphic', 1, 1);
+	} else {
+		document.body.classList.remove('calligraphic');
+		document.getElementById('switch').checked = false;
+		setCookie('calligraphic', 0, 1);
+	}
+}
+
+// Gets the current caligraphic state
+function getCaligraphic() {
+	return getCookie('calligraphic');
+}
+
+// @src: https://www.tabnine.com/academy/javascript/javascript/how-to-set-cookies-javascript/
+function getCookie(cName) {
+      const name = cName + "=";
+      const cDecoded = decodeURIComponent(document.cookie); //to be careful
+      const cArr = cDecoded .split('; ');
+      let res;
+      cArr.forEach(val => {
+          if (val.indexOf(name) === 0) res = val.substring(name.length);
+      })
+      return res;
+}
+
+// Set a Cookie
+function setCookie(cName, cValue, expDays) {
+        let date = new Date();
+        date.setTime(date.getTime() + (expDays * 24 * 60 * 60 * 1000));
+        const expires = "expires=" + date.toUTCString();
+        document.cookie = cName + "=" + cValue + "; " + expires + "; path=/";
+}
+
+// Set link param state (instead of using cookies)
+window.addEventListener("load", function(){
+	if (getCaligraphic() === undefined) { // first time visitor
+		setCaligraphic(true);
+	}  else if (getCaligraphic() == 1) { // set caligraphic
+		setCaligraphic(true);
+	} else if (getCaligraphic() == 0) { // unset caligraphic
+		setCaligraphic(false);
+	}
+});
+</script>
+
+<style>
+	#change-font {
+		text-align: right;
+		color:  white;
+	}
+</style>
+
+<div class="jitterable" onclick="toggleCaligraphic(this)">
+	<input type="checkbox" id="switch" checked>
+	<label for="switch" class="switch-label">Jitter?</label>
+</div>
