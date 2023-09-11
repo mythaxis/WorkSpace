@@ -88,10 +88,73 @@
     </h3>
   
 
-  <div class="jitterable">
-    <input type="checkbox" id="switch" checked>
-    <label for="switch" class="switch-label">Jitter?</label>
-  </div>
+  <script type="text/javascript">
+
+function toggleCaligraphic(t) {
+	setCaligraphic(1-getCaligraphic());
+}
+
+
+function setCaligraphic(enabled) {
+	if (enabled) {
+		document.body.classList.add('calligraphic');
+		document.getElementById('switch').checked = true;
+		setCookie('calligraphic', 1, 1);
+	} else {
+		document.body.classList.remove('calligraphic');
+		document.getElementById('switch').checked = false;
+		setCookie('calligraphic', 0, 1);
+	}
+}
+
+
+function getCaligraphic() {
+	return getCookie('calligraphic');
+}
+
+
+function getCookie(cName) {
+      const name = cName + "=";
+      const cDecoded = decodeURIComponent(document.cookie); 
+      const cArr = cDecoded .split('; ');
+      let res;
+      cArr.forEach(val => {
+          if (val.indexOf(name) === 0) res = val.substring(name.length);
+      })
+      return res;
+}
+
+
+function setCookie(cName, cValue, expDays) {
+        let date = new Date();
+        date.setTime(date.getTime() + (expDays * 24 * 60 * 60 * 1000));
+        const expires = "expires=" + date.toUTCString();
+        document.cookie = cName + "=" + cValue + "; " + expires + "; path=/";
+}
+
+
+window.addEventListener("load", function(){
+	if (getCaligraphic() === undefined) { 
+		setCaligraphic(true);
+	}  else if (getCaligraphic() == 1) { 
+		setCaligraphic(true);
+	} else if (getCaligraphic() == 0) { 
+		setCaligraphic(false);
+	}
+});
+</script>
+
+<style>
+	#change-font {
+		text-align: right;
+		color:  white;
+	}
+</style>
+
+<div class="jitterable" onclick="toggleCaligraphic(this)">
+	<input type="checkbox" id="switch" checked>
+	<label for="switch" class="switch-label">Jitter?</label>
+</div>
   
   <span class="owner">©2023 Killbot</span><br />
 
@@ -122,7 +185,7 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
-  <!-- Build date: Mon, 11 Sep 2023 06:11:56 UTC -->
+  <!-- Build date: Mon, 11 Sep 2023 06:50:08 UTC -->
 </footer>
 
 
