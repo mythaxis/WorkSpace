@@ -363,10 +363,16 @@ article a.readmore {
 body.list article {
   font-size: 0.8em;
   columns: 2;
-  width: 700px;
+  max-width: 700px;
+}
+/* Media queries for responsiveness */
+@media (max-width: 700px) {
+    body.list article {
+        columns: 1;
+    }
 }
 body.single article {
-  width: 600px;
+  max-width: 600px;
 }
 
 /* other */
@@ -379,7 +385,7 @@ figure img,
 figure figcaption {
     display: flex;
     justify-content: center;
-     margin-top: auto;
+    margin-top: auto;
 }
 hr {
     margin: 2rem auto 1rem auto;
@@ -429,7 +435,6 @@ ul li {
 }
 ul li span {
     width: 80px;
-
 }
 ul li span::after {
     content: " →";
