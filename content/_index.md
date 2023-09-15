@@ -9,5 +9,6 @@ background:
   background_position: top 50px left 300px
   background_attachment: scroll
   background_size: 500px
+  background_blend_mode: normal
 ---
 
