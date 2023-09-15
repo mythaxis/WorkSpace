@@ -222,6 +222,18 @@ body {
   letter-spacing: 1.5px;
 }
 
+/* Base background image across site. Overrise in frontmatter */
+html {
+  background-image: url('/WorkSpace/images/side blur robot-2301646_1920.jpg');
+  background-repeat: no-repeat;
+  background-position: top 0px left 0px;
+  background-attachment: fixed; 
+  background-size: cover;
+  background-blend-mode: color-dodge;
+}
+
+
+
 
 /* Flexbox styles for layout */
 
